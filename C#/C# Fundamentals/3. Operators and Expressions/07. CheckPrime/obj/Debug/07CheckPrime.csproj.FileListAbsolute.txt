@@ -1,0 +1,6 @@
+D:\workflow\c#\CSharp_TAonline_homework3\CheckPrime\obj\Debug\07CheckPrime.csprojResolveAssemblyReference.cache
+D:\workflow\c#\CSharp_TAonline_homework3\CheckPrime\bin\Debug\CheckPrime.exe.config
+D:\workflow\c#\CSharp_TAonline_homework3\CheckPrime\bin\Debug\CheckPrime.exe
+D:\workflow\c#\CSharp_TAonline_homework3\CheckPrime\bin\Debug\CheckPrime.pdb
+D:\workflow\c#\CSharp_TAonline_homework3\CheckPrime\obj\Debug\CheckPrime.exe
+D:\workflow\c#\CSharp_TAonline_homework3\CheckPrime\obj\Debug\CheckPrime.pdb

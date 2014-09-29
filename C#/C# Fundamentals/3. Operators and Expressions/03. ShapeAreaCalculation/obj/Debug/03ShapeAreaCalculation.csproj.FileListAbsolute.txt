@@ -1,0 +1,5 @@
+D:\workflow\c#\CSharp_TAonline_homework3\ShapeAreaCalculation\bin\Debug\ShapeAreaCalculation.exe.config
+D:\workflow\c#\CSharp_TAonline_homework3\ShapeAreaCalculation\bin\Debug\ShapeAreaCalculation.exe
+D:\workflow\c#\CSharp_TAonline_homework3\ShapeAreaCalculation\bin\Debug\ShapeAreaCalculation.pdb
+D:\workflow\c#\CSharp_TAonline_homework3\ShapeAreaCalculation\obj\Debug\ShapeAreaCalculation.exe
+D:\workflow\c#\CSharp_TAonline_homework3\ShapeAreaCalculation\obj\Debug\ShapeAreaCalculation.pdb

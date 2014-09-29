@@ -1,0 +1,5 @@
+D:\workflow\c#\CSharp_TAonline_homework3\CSharp_TAonline_homework3\bin\Debug\CSharp_TAonline_homework3.exe.config
+D:\workflow\c#\CSharp_TAonline_homework3\CSharp_TAonline_homework3\bin\Debug\CSharp_TAonline_homework3.exe
+D:\workflow\c#\CSharp_TAonline_homework3\CSharp_TAonline_homework3\bin\Debug\CSharp_TAonline_homework3.pdb
+D:\workflow\c#\CSharp_TAonline_homework3\CSharp_TAonline_homework3\obj\Debug\CSharp_TAonline_homework3.exe
+D:\workflow\c#\CSharp_TAonline_homework3\CSharp_TAonline_homework3\obj\Debug\CSharp_TAonline_homework3.pdb

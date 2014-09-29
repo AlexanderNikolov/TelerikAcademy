@@ -1,0 +1,6 @@
+D:\workflow\c#\CSharp_TAonline_homework3\Exist_of_char_in_position\bin\Debug\Exist_of_char_in_position.exe.config
+D:\workflow\c#\CSharp_TAonline_homework3\Exist_of_char_in_position\bin\Debug\Exist_of_char_in_position.exe
+D:\workflow\c#\CSharp_TAonline_homework3\Exist_of_char_in_position\bin\Debug\Exist_of_char_in_position.pdb
+D:\workflow\c#\CSharp_TAonline_homework3\Exist_of_char_in_position\obj\Debug\04Exist_of_char_in_position.csprojResolveAssemblyReference.cache
+D:\workflow\c#\CSharp_TAonline_homework3\Exist_of_char_in_position\obj\Debug\Exist_of_char_in_position.exe
+D:\workflow\c#\CSharp_TAonline_homework3\Exist_of_char_in_position\obj\Debug\Exist_of_char_in_position.pdb

@@ -1,0 +1,5 @@
+D:\workflow\c#\CSharp_TAonline_homework3\TrapezeArea\bin\Debug\TrapezeArea.exe.config
+D:\workflow\c#\CSharp_TAonline_homework3\TrapezeArea\bin\Debug\TrapezeArea.exe
+D:\workflow\c#\CSharp_TAonline_homework3\TrapezeArea\bin\Debug\TrapezeArea.pdb
+D:\workflow\c#\CSharp_TAonline_homework3\TrapezeArea\obj\Debug\TrapezeArea.exe
+D:\workflow\c#\CSharp_TAonline_homework3\TrapezeArea\obj\Debug\TrapezeArea.pdb

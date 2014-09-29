@@ -1,0 +1,6 @@
+D:\workflow\c#\CSharp_TAonline_homework3\HoldBitOnPosition\bin\Debug\HoldBitOnPosition.exe.config
+D:\workflow\c#\CSharp_TAonline_homework3\HoldBitOnPosition\bin\Debug\HoldBitOnPosition.exe
+D:\workflow\c#\CSharp_TAonline_homework3\HoldBitOnPosition\bin\Debug\HoldBitOnPosition.pdb
+D:\workflow\c#\CSharp_TAonline_homework3\HoldBitOnPosition\obj\Debug\HoldBitOnPosition.csprojResolveAssemblyReference.cache
+D:\workflow\c#\CSharp_TAonline_homework3\HoldBitOnPosition\obj\Debug\HoldBitOnPosition.exe
+D:\workflow\c#\CSharp_TAonline_homework3\HoldBitOnPosition\obj\Debug\HoldBitOnPosition.pdb

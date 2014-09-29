@@ -1,0 +1,6 @@
+D:\workflow\c#\CSharp_TAonline_homework3\BitwiseIntegerBit3\bin\Debug\BitwiseIntegerBit3.exe.config
+D:\workflow\c#\CSharp_TAonline_homework3\BitwiseIntegerBit3\bin\Debug\BitwiseIntegerBit3.exe
+D:\workflow\c#\CSharp_TAonline_homework3\BitwiseIntegerBit3\bin\Debug\BitwiseIntegerBit3.pdb
+D:\workflow\c#\CSharp_TAonline_homework3\BitwiseIntegerBit3\obj\Debug\05BitwiseIntegerBit3.csprojResolveAssemblyReference.cache
+D:\workflow\c#\CSharp_TAonline_homework3\BitwiseIntegerBit3\obj\Debug\BitwiseIntegerBit3.exe
+D:\workflow\c#\CSharp_TAonline_homework3\BitwiseIntegerBit3\obj\Debug\BitwiseIntegerBit3.pdb

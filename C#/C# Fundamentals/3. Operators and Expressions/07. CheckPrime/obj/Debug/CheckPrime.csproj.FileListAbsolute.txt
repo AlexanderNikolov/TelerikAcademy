@@ -1,0 +1,1 @@
+D:\workflow\c#\CSharp_TAonline_homework3\CheckPrime\bin\Debug\CheckPrime.exe.config

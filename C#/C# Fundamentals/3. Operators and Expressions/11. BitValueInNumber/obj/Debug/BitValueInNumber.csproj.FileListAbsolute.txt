@@ -1,0 +1,1 @@
+D:\workflow\c#\CSharp_TAonline_homework3\BitValueInNumber\bin\Debug\BitValueInNumber.exe.config

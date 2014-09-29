@@ -1,0 +1,6 @@
+D:\workflow\c#\CSharp_TAonline_homework3\BitOnPositionP\bin\Debug\BitOnPositionP.exe.config
+D:\workflow\c#\CSharp_TAonline_homework3\BitOnPositionP\bin\Debug\BitOnPositionP.exe
+D:\workflow\c#\CSharp_TAonline_homework3\BitOnPositionP\bin\Debug\BitOnPositionP.pdb
+D:\workflow\c#\CSharp_TAonline_homework3\BitOnPositionP\obj\Debug\10BitOnPositionP.csprojResolveAssemblyReference.cache
+D:\workflow\c#\CSharp_TAonline_homework3\BitOnPositionP\obj\Debug\BitOnPositionP.exe
+D:\workflow\c#\CSharp_TAonline_homework3\BitOnPositionP\obj\Debug\BitOnPositionP.pdb

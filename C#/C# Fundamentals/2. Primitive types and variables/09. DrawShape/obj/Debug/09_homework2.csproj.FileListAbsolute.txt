@@ -1,0 +1,6 @@
+D:\workflow\c#\CSharp_TAonline_homework2\DrawShape\bin\Debug\DrawShape.exe.config
+D:\workflow\c#\CSharp_TAonline_homework2\DrawShape\bin\Debug\DrawShape.exe
+D:\workflow\c#\CSharp_TAonline_homework2\DrawShape\bin\Debug\DrawShape.pdb
+D:\workflow\c#\CSharp_TAonline_homework2\DrawShape\obj\Debug\DrawShape.exe
+D:\workflow\c#\CSharp_TAonline_homework2\DrawShape\obj\Debug\DrawShape.pdb
+D:\workflow\c#\CSharp_TAonline_homework2\DrawShape\obj\Debug\09_homework2.csprojResolveAssemblyReference.cache

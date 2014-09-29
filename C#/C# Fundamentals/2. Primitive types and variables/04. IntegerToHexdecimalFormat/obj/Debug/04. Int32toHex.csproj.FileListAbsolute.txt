@@ -1,0 +1,5 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Types\bin\Debug\Types.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Types\obj\Debug\Types.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Types\obj\Debug\Types.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Types\bin\Debug\Types.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Types\bin\Debug\Types.pdb

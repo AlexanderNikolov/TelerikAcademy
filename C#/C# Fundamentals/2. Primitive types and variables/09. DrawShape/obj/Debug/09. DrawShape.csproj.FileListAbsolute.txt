@@ -1,0 +1,5 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\DrawShape\bin\Debug\DrawShape.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\DrawShape\obj\Debug\DrawShape.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\DrawShape\obj\Debug\DrawShape.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\DrawShape\bin\Debug\DrawShape.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\DrawShape\bin\Debug\DrawShape.pdb

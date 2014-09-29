@@ -1,0 +1,9 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\data_types\bin\Debug\data_types.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\data_types\obj\Debug\data_types.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\data_types\obj\Debug\data_types.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\data_types\bin\Debug\data_types.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\data_types\bin\Debug\data_types.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\data_types\obj\Debug\01_02_03_05_06_07_08_10_11_13_14.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\01. DataTypes\bin\Debug\data_types.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\01. DataTypes\obj\Debug\data_types.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\01. DataTypes\obj\Debug\data_types.pdb

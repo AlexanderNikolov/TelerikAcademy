@@ -1,0 +1,3 @@
+D:\workflow\c#\CSharp_TAonline_homework2\data_types\bin\Debug\data_types.exe.config
+D:\workflow\c#\CSharp_TAonline_homework2\data_types\obj\Debug\data_types.exe
+D:\workflow\c#\CSharp_TAonline_homework2\data_types\obj\Debug\data_types.pdb

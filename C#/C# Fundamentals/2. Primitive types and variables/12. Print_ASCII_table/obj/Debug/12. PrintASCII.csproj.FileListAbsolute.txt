@@ -1,0 +1,5 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Print_ASCII_table\bin\Debug\Print_ASCII_table.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Print_ASCII_table\obj\Debug\Print_ASCII_table.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Print_ASCII_table\obj\Debug\Print_ASCII_table.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Print_ASCII_table\bin\Debug\Print_ASCII_table.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Print_ASCII_table\bin\Debug\Print_ASCII_table.pdb

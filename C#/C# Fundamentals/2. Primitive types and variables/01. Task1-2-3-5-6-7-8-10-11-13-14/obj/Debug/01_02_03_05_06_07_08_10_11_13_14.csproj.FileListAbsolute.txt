@@ -7,3 +7,6 @@ D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\data_types
 D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\01. DataTypes\bin\Debug\data_types.exe.config
 D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\01. DataTypes\obj\Debug\data_types.exe
 D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\01. DataTypes\obj\Debug\data_types.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\01. Task1-2-3-5-6-7-8-10-11-13-14\bin\Debug\data_types.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\01. Task1-2-3-5-6-7-8-10-11-13-14\obj\Debug\data_types.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\01. Task1-2-3-5-6-7-8-10-11-13-14\obj\Debug\data_types.pdb

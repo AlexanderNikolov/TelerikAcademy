@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_02_03_05_06_07_08_10_11_13_14", "01. DataTypes\01_02_03_05_06_07_08_10_11_13_14.csproj", "{B91AFEFD-6779-4235-AF7E-0C4C58731438}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 .Task1-2-3-5-6-7-8-10-11-13-14", "01. Task1-2-3-5-6-7-8-10-11-13-14\01 .Task1-2-3-5-6-7-8-10-11-13-14.csproj", "{B91AFEFD-6779-4235-AF7E-0C4C58731438}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Int32toHex", "04. IntegerToHexdecimalFormat\04. Int32toHex.csproj", "{E6C42BE4-291F-4BDD-BF0F-5741A323C56B}"
 EndProject

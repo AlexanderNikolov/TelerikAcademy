@@ -1,0 +1,1 @@
+D:\workflow\c#\CSharp_TAonline_homework4\Greater OfTwo\bin\Debug\Greater OfTwo.exe.config

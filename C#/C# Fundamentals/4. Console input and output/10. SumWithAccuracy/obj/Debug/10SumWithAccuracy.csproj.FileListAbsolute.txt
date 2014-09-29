@@ -1,0 +1,18 @@
+D:\workflow\c#\CSharp_TAonline_homework4\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe.config
+D:\workflow\c#\CSharp_TAonline_homework4\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe
+D:\workflow\c#\CSharp_TAonline_homework4\SumWithAccuracy\bin\Debug\SumWithAccuracy.pdb
+D:\workflow\c#\CSharp_TAonline_homework4\SumWithAccuracy\obj\Debug\SumWithAccuracy.exe
+D:\workflow\c#\CSharp_TAonline_homework4\SumWithAccuracy\obj\Debug\SumWithAccuracy.pdb
+D:\workflow\c#\CSharp_TAonline_homework4\SumWithAccuracy\obj\Debug\10SumWithAccuracy.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe.config
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\SumWithAccuracy\obj\Debug\SumWithAccuracy.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\SumWithAccuracy\obj\Debug\SumWithAccuracy.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\SumWithAccuracy\bin\Debug\SumWithAccuracy.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\SumWithAccuracy\obj\Debug\10SumWithAccuracy.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\bin\Debug\SumWithAccuracy.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\obj\Debug\10SumWithAccuracy.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\obj\Debug\SumWithAccuracy.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\obj\Debug\SumWithAccuracy.pdb

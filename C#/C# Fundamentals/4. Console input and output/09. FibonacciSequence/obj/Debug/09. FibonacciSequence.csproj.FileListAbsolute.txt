@@ -1,0 +1,6 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FibonacciSequence\obj\Debug\FibonacciSequence.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FibonacciSequence\bin\Debug\FibonacciSequence.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FibonacciSequence\bin\Debug\FibonacciSequence.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FibonacciSequence\obj\Debug\09. FibonacciSequence.csprojResolveAssemblyReference.cache

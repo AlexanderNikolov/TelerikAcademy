@@ -1,0 +1,5 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\obj\Debug\SumWithAccuracy.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\obj\Debug\SumWithAccuracy.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\SumWithAccuracy\bin\Debug\SumWithAccuracy.pdb

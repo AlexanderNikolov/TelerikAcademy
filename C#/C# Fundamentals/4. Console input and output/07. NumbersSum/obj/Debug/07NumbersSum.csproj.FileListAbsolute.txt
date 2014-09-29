@@ -1,0 +1,18 @@
+D:\workflow\c#\CSharp_TAonline_homework4\NumbersSum\bin\Debug\NumbersSum.exe.config
+D:\workflow\c#\CSharp_TAonline_homework4\NumbersSum\bin\Debug\NumbersSum.exe
+D:\workflow\c#\CSharp_TAonline_homework4\NumbersSum\bin\Debug\NumbersSum.pdb
+D:\workflow\c#\CSharp_TAonline_homework4\NumbersSum\obj\Debug\07NumbersSum.csprojResolveAssemblyReference.cache
+D:\workflow\c#\CSharp_TAonline_homework4\NumbersSum\obj\Debug\NumbersSum.exe
+D:\workflow\c#\CSharp_TAonline_homework4\NumbersSum\obj\Debug\NumbersSum.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumbersSum\bin\Debug\NumbersSum.exe.config
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumbersSum\obj\Debug\NumbersSum.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumbersSum\obj\Debug\NumbersSum.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumbersSum\bin\Debug\NumbersSum.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumbersSum\bin\Debug\NumbersSum.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumbersSum\obj\Debug\07NumbersSum.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumbersSum\bin\Debug\NumbersSum.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumbersSum\bin\Debug\NumbersSum.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumbersSum\bin\Debug\NumbersSum.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumbersSum\obj\Debug\07NumbersSum.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumbersSum\obj\Debug\NumbersSum.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumbersSum\obj\Debug\NumbersSum.pdb

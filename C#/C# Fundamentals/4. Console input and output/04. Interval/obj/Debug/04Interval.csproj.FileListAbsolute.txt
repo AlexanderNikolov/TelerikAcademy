@@ -1,0 +1,15 @@
+D:\workflow\c#\CSharp_TAonline_homework4\Interval\bin\Debug\Interval.exe.config
+D:\workflow\c#\CSharp_TAonline_homework4\Interval\bin\Debug\Interval.exe
+D:\workflow\c#\CSharp_TAonline_homework4\Interval\bin\Debug\Interval.pdb
+D:\workflow\c#\CSharp_TAonline_homework4\Interval\obj\Debug\Interval.exe
+D:\workflow\c#\CSharp_TAonline_homework4\Interval\obj\Debug\Interval.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\Interval\bin\Debug\Interval.exe.config
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\Interval\obj\Debug\Interval.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\Interval\obj\Debug\Interval.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\Interval\bin\Debug\Interval.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\Interval\bin\Debug\Interval.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\bin\Debug\Interval.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\bin\Debug\Interval.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\bin\Debug\Interval.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\obj\Debug\Interval.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\obj\Debug\Interval.pdb

@@ -1,0 +1,6 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Greater OfTwo\bin\Debug\Greater OfTwo.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Greater OfTwo\obj\Debug\Greater OfTwo.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Greater OfTwo\obj\Debug\Greater OfTwo.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Greater OfTwo\bin\Debug\Greater OfTwo.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Greater OfTwo\bin\Debug\Greater OfTwo.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Greater OfTwo\obj\Debug\05. Greater OfTwo.csprojResolveAssemblyReference.cache

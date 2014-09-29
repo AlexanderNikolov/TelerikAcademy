@@ -1,0 +1,14 @@
+D:\workflow\c#\CSharp_TAonline_homework4\ReadRadiusPrintArea\bin\Debug\ReadRadiusPrintArea.exe.config
+D:\workflow\c#\CSharp_TAonline_homework4\ReadRadiusPrintArea\bin\Debug\ReadRadiusPrintArea.exe
+D:\workflow\c#\CSharp_TAonline_homework4\ReadRadiusPrintArea\bin\Debug\ReadRadiusPrintArea.pdb
+D:\workflow\c#\CSharp_TAonline_homework4\ReadRadiusPrintArea\obj\Debug\ReadRadiusPrintArea.exe
+D:\workflow\c#\CSharp_TAonline_homework4\ReadRadiusPrintArea\obj\Debug\ReadRadiusPrintArea.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\ReadRadiusPrintArea\bin\Debug\ReadRadiusPrintArea.exe.config
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\ReadRadiusPrintArea\obj\Debug\ReadRadiusPrintArea.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\ReadRadiusPrintArea\obj\Debug\ReadRadiusPrintArea.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\ReadRadiusPrintArea\bin\Debug\ReadRadiusPrintArea.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\ReadRadiusPrintArea\bin\Debug\ReadRadiusPrintArea.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\ReadRadiusPrintArea\bin\Debug\ReadRadiusPrintArea.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\ReadRadiusPrintArea\obj\Debug\02ReadRadiusPrintArea.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\ReadRadiusPrintArea\obj\Debug\ReadRadiusPrintArea.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\ReadRadiusPrintArea\obj\Debug\ReadRadiusPrintArea.pdb

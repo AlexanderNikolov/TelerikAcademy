@@ -1,0 +1,15 @@
+D:\workflow\c#\CSharp_TAonline_homework4\FallingRocksGame\bin\Debug\FallingRocksGame.exe.config
+D:\workflow\c#\CSharp_TAonline_homework4\FallingRocksGame\bin\Debug\FallingRocksGame.exe
+D:\workflow\c#\CSharp_TAonline_homework4\FallingRocksGame\bin\Debug\FallingRocksGame.pdb
+D:\workflow\c#\CSharp_TAonline_homework4\FallingRocksGame\obj\Debug\11FallingRocksGame.csprojResolveAssemblyReference.cache
+D:\workflow\c#\CSharp_TAonline_homework4\FallingRocksGame\obj\Debug\FallingRocksGame.exe
+D:\workflow\c#\CSharp_TAonline_homework4\FallingRocksGame\obj\Debug\FallingRocksGame.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\FallingRocksGame\bin\Debug\FallingRocksGame.exe.config
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\FallingRocksGame\obj\Debug\FallingRocksGame.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\FallingRocksGame\obj\Debug\FallingRocksGame.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FallingRocksGame\bin\Debug\FallingRocksGame.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FallingRocksGame\bin\Debug\FallingRocksGame.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FallingRocksGame\bin\Debug\FallingRocksGame.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FallingRocksGame\obj\Debug\11FallingRocksGame.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FallingRocksGame\obj\Debug\FallingRocksGame.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\FallingRocksGame\obj\Debug\FallingRocksGame.pdb

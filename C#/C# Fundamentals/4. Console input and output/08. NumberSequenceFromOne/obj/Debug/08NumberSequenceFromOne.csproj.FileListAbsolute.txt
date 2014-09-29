@@ -1,0 +1,16 @@
+D:\workflow\c#\CSharp_TAonline_homework4\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.exe.config
+D:\workflow\c#\CSharp_TAonline_homework4\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.exe
+D:\workflow\c#\CSharp_TAonline_homework4\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.pdb
+D:\workflow\c#\CSharp_TAonline_homework4\NumberSequenceFromOne\obj\Debug\NumberSequenceFromOne.exe
+D:\workflow\c#\CSharp_TAonline_homework4\NumberSequenceFromOne\obj\Debug\NumberSequenceFromOne.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.exe.config
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumberSequenceFromOne\obj\Debug\NumberSequenceFromOne.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumberSequenceFromOne\obj\Debug\NumberSequenceFromOne.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumberSequenceFromOne\obj\Debug\08NumberSequenceFromOne.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumberSequenceFromOne\obj\Debug\NumberSequenceFromOne.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumberSequenceFromOne\obj\Debug\NumberSequenceFromOne.pdb

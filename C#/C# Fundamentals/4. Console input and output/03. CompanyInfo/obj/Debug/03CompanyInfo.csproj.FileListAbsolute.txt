@@ -1,0 +1,16 @@
+D:\workflow\c#\CSharp_TAonline_homework4\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+D:\workflow\c#\CSharp_TAonline_homework4\CompanyInfo\bin\Debug\CompanyInfo.exe
+D:\workflow\c#\CSharp_TAonline_homework4\CompanyInfo\bin\Debug\CompanyInfo.pdb
+D:\workflow\c#\CSharp_TAonline_homework4\CompanyInfo\obj\Debug\CompanyInfo.exe
+D:\workflow\c#\CSharp_TAonline_homework4\CompanyInfo\obj\Debug\CompanyInfo.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\CompanyInfo\obj\Debug\CompanyInfo.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\CompanyInfo\obj\Debug\CompanyInfo.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\CompanyInfo\bin\Debug\CompanyInfo.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\CompanyInfo\bin\Debug\CompanyInfo.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\CompanyInfo\bin\Debug\CompanyInfo.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\CompanyInfo\bin\Debug\CompanyInfo.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\CompanyInfo\obj\Debug\03CompanyInfo.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\CompanyInfo\obj\Debug\CompanyInfo.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\CompanyInfo\obj\Debug\CompanyInfo.pdb

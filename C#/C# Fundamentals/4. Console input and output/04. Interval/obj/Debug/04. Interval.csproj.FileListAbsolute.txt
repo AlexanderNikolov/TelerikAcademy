@@ -1,0 +1,6 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\bin\Debug\Interval.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\obj\Debug\Interval.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\obj\Debug\Interval.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\bin\Debug\Interval.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\bin\Debug\Interval.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\Interval\obj\Debug\04. Interval.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+D:\workflow\c#\CSharp_TAonline_homework4\QuadraticFormula\bin\Debug\QuadraticFormula.exe.config
+D:\workflow\c#\CSharp_TAonline_homework4\QuadraticFormula\obj\Debug\06QuadraticFormula.csprojResolveAssemblyReference.cache
+D:\workflow\c#\CSharp_TAonline_homework4\QuadraticFormula\bin\Debug\QuadraticFormula.exe
+D:\workflow\c#\CSharp_TAonline_homework4\QuadraticFormula\bin\Debug\QuadraticFormula.pdb
+D:\workflow\c#\CSharp_TAonline_homework4\QuadraticFormula\obj\Debug\QuadraticFormula.exe
+D:\workflow\c#\CSharp_TAonline_homework4\QuadraticFormula\obj\Debug\QuadraticFormula.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\QuadraticFormula\bin\Debug\QuadraticFormula.exe.config
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\QuadraticFormula\obj\Debug\QuadraticFormula.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\QuadraticFormula\obj\Debug\QuadraticFormula.pdb
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\QuadraticFormula\obj\Debug\06QuadraticFormula.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\QuadraticFormula\bin\Debug\QuadraticFormula.exe
+D:\workflow\c#\TAonline_4_ConsoleInputOutputhomework\QuadraticFormula\bin\Debug\QuadraticFormula.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\bin\Debug\QuadraticFormula.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\bin\Debug\QuadraticFormula.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\bin\Debug\QuadraticFormula.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\obj\Debug\06QuadraticFormula.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\obj\Debug\QuadraticFormula.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\obj\Debug\QuadraticFormula.pdb

@@ -1,0 +1,5 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\bin\Debug\QuadraticFormula.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\obj\Debug\QuadraticFormula.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\obj\Debug\QuadraticFormula.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\bin\Debug\QuadraticFormula.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\QuadraticFormula\bin\Debug\QuadraticFormula.pdb

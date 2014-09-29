@@ -1,0 +1,3 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumberSequenceFromOne\bin\Debug\NumberSequenceFromOne.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumberSequenceFromOne\obj\Debug\NumberSequenceFromOne.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\NumberSequenceFromOne\obj\Debug\NumberSequenceFromOne.pdb

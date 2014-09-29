@@ -1,0 +1,3 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\ReadRadiusPrintArea\bin\Debug\ReadRadiusPrintArea.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\ReadRadiusPrintArea\obj\Debug\ReadRadiusPrintArea.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\ReadRadiusPrintArea\obj\Debug\ReadRadiusPrintArea.pdb

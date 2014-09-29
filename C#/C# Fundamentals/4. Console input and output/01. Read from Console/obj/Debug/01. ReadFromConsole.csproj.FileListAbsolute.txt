@@ -1,0 +1,3 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\CSharp_TAonline_homework4\bin\Debug\CSharp_TAonline_homework4.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\CSharp_TAonline_homework4\obj\Debug\CSharp_TAonline_homework4.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\4. Console input and output\CSharp_TAonline_homework4\obj\Debug\CSharp_TAonline_homework4.pdb

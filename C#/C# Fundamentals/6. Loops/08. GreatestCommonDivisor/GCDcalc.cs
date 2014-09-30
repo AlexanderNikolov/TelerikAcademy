@@ -1,29 +1,31 @@
-﻿using System;
-
-class GCDcalc
+namespace TAonline.CSharp.Loops.Homework
 {
-    static void Main()
+    using System;
+
+    //Write a program that calculates the greatest common divisor (GCD) of given two numbers. 
+    //Use the Euclidean algorithm
+    class Task8
     {
-        //Write a program that calculates the greatest common divisor (GCD) of given two numbers. 
-        //Use the Euclidean algorithm
-
-        Console.Write("Input common factor X  "); 
-        int x = int.Parse(Console.ReadLine());
-        Console.Write("Input common factor Y  "); 
-        int y = int.Parse(Console.ReadLine());
-
-        Console.WriteLine(gcdCalc(x, y));
-    }
-
-    public static int gcdCalc(int x, int y)
-    {
-        if (y == 0)     
+        static void Main()
         {
-            return x;
+            Console.Write("Input common factor X  "); 
+            int commonX = int.Parse(Console.ReadLine());
+            Console.Write("Input common factor Y  "); 
+            int commonY = int.Parse(Console.ReadLine());
+    
+            Console.WriteLine(gcdCalc(commonX, commonY));
         }
-        else         
+    
+        public static int gcdCalc(int x, int y)
         {
-            return gcdCalc(y, x % y);   
+            if (y == 0)     
+            {
+                return x;
+            }
+            else         
+            {
+                return gcdCalc(y, x % y);   
+            }
         }
     }
 }

@@ -10,10 +10,11 @@ Exercises:
     0, 1, 1, 2, 3, 5, 8, 13, … Each member of the Fibonacci sequence (except the first two) is a sum of the previous two members.
 8. Write a program that calculates the greatest common divisor (GCD) of given two numbers. Use the Euclidean algorithm 
     (find it in Internet)
-10. Write a program to calculate the Nth Catalan number by given N.
-11. Write a program that prints all possible cards from a standard deck of 52 cards (without jokers). 
+9. Write a program to calculate the Nth Catalan number by given N.
+10. 
+11.Write a program that prints all possible cards from a standard deck of 52 cards (without jokers). 
     The cards should be printed with their English names. Use nested for loops and switch-case.
-12. Write a program that reads from the console a positive integer number N (N < 20) and outputs a matrix.
+12.Write a program that reads from the console a positive integer number N (N < 20) and outputs a matrix.
 13.*Write a program that calculates for given N how many trailing zeros present at the end of the number N!. Examples:
 	N = 10  N! = 3628800  2
 	N = 20  N! = 2432902008176640000  4

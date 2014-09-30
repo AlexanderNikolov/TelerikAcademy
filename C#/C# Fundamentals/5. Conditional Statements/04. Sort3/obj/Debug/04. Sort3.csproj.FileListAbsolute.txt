@@ -1,0 +1,6 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\Sort3\bin\Debug\Sort3.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\Sort3\obj\Debug\Sort3.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\Sort3\obj\Debug\Sort3.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\Sort3\bin\Debug\Sort3.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\Sort3\bin\Debug\Sort3.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\Sort3\obj\Debug\04. Sort3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SolveQuadraticFormula\bin\Debug\SolveQuadraticFormula.exe.config
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SolveQuadraticFormula\bin\Debug\SolveQuadraticFormula.exe
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SolveQuadraticFormula\bin\Debug\SolveQuadraticFormula.pdb
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SolveQuadraticFormula\obj\Debug\06SolveQuadraticFormula.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SolveQuadraticFormula\obj\Debug\SolveQuadraticFormula.exe
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SolveQuadraticFormula\obj\Debug\SolveQuadraticFormula.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\SolveQuadraticFormula\bin\Debug\SolveQuadraticFormula.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\SolveQuadraticFormula\obj\Debug\SolveQuadraticFormula.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\SolveQuadraticFormula\obj\Debug\SolveQuadraticFormula.pdb

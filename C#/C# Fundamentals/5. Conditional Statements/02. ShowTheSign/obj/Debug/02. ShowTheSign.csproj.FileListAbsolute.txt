@@ -1,0 +1,3 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\ShowTheSign\bin\Debug\ShowTheSign.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\ShowTheSign\obj\Debug\ShowTheSign.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\ShowTheSign\obj\Debug\ShowTheSign.pdb

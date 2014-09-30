@@ -1,0 +1,6 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\NumberPronunciation\bin\Debug\NumberPronunciation.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\NumberPronunciation\obj\Debug\NumberPronunciation.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\NumberPronunciation\obj\Debug\NumberPronunciation.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\NumberPronunciation\bin\Debug\NumberPronunciation.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\NumberPronunciation\bin\Debug\NumberPronunciation.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\NumberPronunciation\obj\Debug\11. NumberPronunciation.csprojResolveAssemblyReference.cache

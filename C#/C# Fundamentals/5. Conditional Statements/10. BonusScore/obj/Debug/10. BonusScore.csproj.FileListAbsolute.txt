@@ -1,0 +1,6 @@
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\BonusScore\bin\Debug\BonusScore.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\BonusScore\obj\Debug\BonusScore.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\BonusScore\obj\Debug\BonusScore.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\10. BonusScore\bin\Debug\BonusScore.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\10. BonusScore\obj\Debug\BonusScore.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\10. BonusScore\obj\Debug\BonusScore.pdb

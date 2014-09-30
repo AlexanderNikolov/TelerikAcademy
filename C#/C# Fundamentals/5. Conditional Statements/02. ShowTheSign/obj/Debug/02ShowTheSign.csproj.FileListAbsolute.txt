@@ -1,0 +1,9 @@
+D:\workflow\c#\TAonline_Conditional_statements_homework5\ShowTheSign\bin\Debug\ShowTheSign.exe.config
+D:\workflow\c#\TAonline_Conditional_statements_homework5\ShowTheSign\bin\Debug\ShowTheSign.exe
+D:\workflow\c#\TAonline_Conditional_statements_homework5\ShowTheSign\bin\Debug\ShowTheSign.pdb
+D:\workflow\c#\TAonline_Conditional_statements_homework5\ShowTheSign\obj\Debug\ShowTheSign.exe
+D:\workflow\c#\TAonline_Conditional_statements_homework5\ShowTheSign\obj\Debug\ShowTheSign.pdb
+D:\workflow\c#\TAonline_Conditional_statements_homework5\ShowTheSign\obj\Debug\02ShowTheSign.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\ShowTheSign\bin\Debug\ShowTheSign.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\ShowTheSign\obj\Debug\ShowTheSign.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\ShowTheSign\obj\Debug\ShowTheSign.pdb

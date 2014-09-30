@@ -1,0 +1,9 @@
+D:\workflow\c#\TAonline_Conditional_statements_homework5\YourChoiceOurSolution\bin\Debug\YourChoiceOurSolution.exe.config
+D:\workflow\c#\TAonline_Conditional_statements_homework5\YourChoiceOurSolution\bin\Debug\YourChoiceOurSolution.exe
+D:\workflow\c#\TAonline_Conditional_statements_homework5\YourChoiceOurSolution\bin\Debug\YourChoiceOurSolution.pdb
+D:\workflow\c#\TAonline_Conditional_statements_homework5\YourChoiceOurSolution\obj\Debug\08YourChoiceOurSolution.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TAonline_Conditional_statements_homework5\YourChoiceOurSolution\obj\Debug\YourChoiceOurSolution.exe
+D:\workflow\c#\TAonline_Conditional_statements_homework5\YourChoiceOurSolution\obj\Debug\YourChoiceOurSolution.pdb
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\YourChoiceOurSolution\bin\Debug\YourChoiceOurSolution.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\YourChoiceOurSolution\obj\Debug\YourChoiceOurSolution.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\YourChoiceOurSolution\obj\Debug\YourChoiceOurSolution.pdb

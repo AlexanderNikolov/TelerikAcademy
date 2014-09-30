@@ -1,0 +1,9 @@
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SubsetSum\bin\Debug\SubsetSum.exe.config
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SubsetSum\bin\Debug\SubsetSum.exe
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SubsetSum\bin\Debug\SubsetSum.pdb
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SubsetSum\obj\Debug\SubsetSum.exe
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SubsetSum\obj\Debug\SubsetSum.pdb
+D:\workflow\c#\TAonline_Conditional_statements_homework5\SubsetSum\obj\Debug\09SubsetSum.csprojResolveAssemblyReference.cache
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\SubsetSum\bin\Debug\SubsetSum.exe.config
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\SubsetSum\obj\Debug\SubsetSum.exe
+D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\SubsetSum\obj\Debug\SubsetSum.pdb

@@ -5,11 +5,9 @@ Exercises:
 3. Write a program that reads from the console a sequence of N integer numbers and returns the minimal and maximal of them.
 4. Write a program that calculates N!/K! for given N and K (1<K<N).
 5. Write a program that calculates N!*K! / (K-N)! for given N and K (1<N<K).
-6. Write a program that, for a given two integer numbers N and X, calculates the sum
-    S = 1 + 1!/X + 2!/X2 + … + N!/XN
+6. Write a program that, for a given two integer numbers N and X, calculates the sum  S = 1 + 1!/X + 2!/X2 + … + N!/XN
 7. Write a program that reads a number N and calculates the sum of the first N members of the sequence of Fibonacci: 
-    0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, …
-    Each member of the Fibonacci sequence (except the first two) is a sum of the previous two members.
+    0, 1, 1, 2, 3, 5, 8, 13, … Each member of the Fibonacci sequence (except the first two) is a sum of the previous two members.
 8. Write a program that calculates the greatest common divisor (GCD) of given two numbers. Use the Euclidean algorithm 
     (find it in Internet)
 10. Write a program to calculate the Nth Catalan number by given N.

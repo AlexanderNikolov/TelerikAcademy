@@ -1,0 +1,1 @@
+D:\workflow\c#\TA_online_6_Loops_homework\NumbersSum\bin\Debug\NumbersSum.exe.config

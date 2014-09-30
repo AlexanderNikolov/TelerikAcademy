@@ -1,0 +1,18 @@
+D:\workflow\c#\TA_online_6_Loops_homework\MoreFactorials\bin\Debug\MoreFactorials.exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\MoreFactorials\bin\Debug\MoreFactorials.exe
+D:\workflow\c#\TA_online_6_Loops_homework\MoreFactorials\bin\Debug\MoreFactorials.pdb
+D:\workflow\c#\TA_online_6_Loops_homework\MoreFactorials\obj\Debug\05MoreFactorials.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA_online_6_Loops_homework\MoreFactorials\obj\Debug\MoreFactorials.exe
+D:\workflow\c#\TA_online_6_Loops_homework\MoreFactorials\obj\Debug\MoreFactorials.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\MoreFactorials\bin\Debug\MoreFactorials.exe.config
+D:\workflow\c#\TAonline_6_Loops_homework\MoreFactorials\obj\Debug\MoreFactorials.exe
+D:\workflow\c#\TAonline_6_Loops_homework\MoreFactorials\obj\Debug\MoreFactorials.pdb
+D:\workflow\c#\TAonline_6_Loops\MoreFactorials\bin\Debug\MoreFactorials.exe.config
+D:\workflow\c#\TAonline_6_Loops\MoreFactorials\obj\Debug\MoreFactorials.exe
+D:\workflow\c#\TAonline_6_Loops\MoreFactorials\obj\Debug\MoreFactorials.pdb
+D:\workflow\c#\TAonline_6_Loops\MoreFactorials\bin\Debug\MoreFactorials.exe
+D:\workflow\c#\TAonline_6_Loops\MoreFactorials\bin\Debug\MoreFactorials.pdb
+D:\workflow\c#\TAonline_6_Loops\MoreFactorials\obj\Debug\05MoreFactorials.csprojResolveAssemblyReference.cache
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MoreFactorials\bin\Debug\MoreFactorials.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MoreFactorials\obj\Debug\MoreFactorials.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MoreFactorials\obj\Debug\MoreFactorials.pdb

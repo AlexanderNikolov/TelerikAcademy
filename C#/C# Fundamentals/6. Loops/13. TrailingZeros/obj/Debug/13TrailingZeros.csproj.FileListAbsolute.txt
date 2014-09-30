@@ -1,0 +1,21 @@
+D:\workflow\c#\TA_online_6_Loops_homework\TrailingZeros\bin\Debug\TrailingZeros.exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\TrailingZeros\bin\Debug\TrailingZeros.exe
+D:\workflow\c#\TA_online_6_Loops_homework\TrailingZeros\bin\Debug\TrailingZeros.pdb
+D:\workflow\c#\TA_online_6_Loops_homework\TrailingZeros\obj\Debug\13TrailingZeros.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA_online_6_Loops_homework\TrailingZeros\obj\Debug\TrailingZeros.exe
+D:\workflow\c#\TA_online_6_Loops_homework\TrailingZeros\obj\Debug\TrailingZeros.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\TrailingZeros\bin\Debug\TrailingZeros.exe.config
+D:\workflow\c#\TAonline_6_Loops_homework\TrailingZeros\obj\Debug\TrailingZeros.exe
+D:\workflow\c#\TAonline_6_Loops_homework\TrailingZeros\obj\Debug\TrailingZeros.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\TrailingZeros\bin\Debug\TrailingZeros.exe
+D:\workflow\c#\TAonline_6_Loops_homework\TrailingZeros\bin\Debug\TrailingZeros.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\TrailingZeros\obj\Debug\13TrailingZeros.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TAonline_6_Loops\TrailingZeros\bin\Debug\TrailingZeros.exe.config
+D:\workflow\c#\TAonline_6_Loops\TrailingZeros\obj\Debug\TrailingZeros.exe
+D:\workflow\c#\TAonline_6_Loops\TrailingZeros\obj\Debug\TrailingZeros.pdb
+D:\workflow\c#\TAonline_6_Loops\TrailingZeros\bin\Debug\TrailingZeros.exe
+D:\workflow\c#\TAonline_6_Loops\TrailingZeros\bin\Debug\TrailingZeros.pdb
+D:\workflow\c#\TAonline_6_Loops\TrailingZeros\obj\Debug\13TrailingZeros.csprojResolveAssemblyReference.cache
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TrailingZeros\bin\Debug\TrailingZeros.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TrailingZeros\obj\Debug\TrailingZeros.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TrailingZeros\obj\Debug\TrailingZeros.pdb

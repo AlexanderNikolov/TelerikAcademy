@@ -1,0 +1,9 @@
+D:\workflow\c#\TAonline_6_Loops_homework\CathalanNumbers\bin\Debug\CathalanNumbers.exe.config
+D:\workflow\c#\TAonline_6_Loops_homework\CathalanNumbers\obj\Debug\CathalanNumbers.exe
+D:\workflow\c#\TAonline_6_Loops_homework\CathalanNumbers\obj\Debug\CathalanNumbers.pdb
+D:\workflow\c#\TAonline_6_Loops\CathalanNumbers\bin\Debug\CathalanNumbers.exe.config
+D:\workflow\c#\TAonline_6_Loops\CathalanNumbers\obj\Debug\CathalanNumbers.exe
+D:\workflow\c#\TAonline_6_Loops\CathalanNumbers\obj\Debug\CathalanNumbers.pdb
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\CathalanNumbers\bin\Debug\CathalanNumbers.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\CathalanNumbers\obj\Debug\CathalanNumbers.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\CathalanNumbers\obj\Debug\CathalanNumbers.pdb

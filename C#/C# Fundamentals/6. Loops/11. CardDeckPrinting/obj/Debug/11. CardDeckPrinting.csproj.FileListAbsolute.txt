@@ -1,0 +1,6 @@
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\CardDeckPrinting\bin\Debug\CardDeckPrinting.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\CardDeckPrinting\obj\Debug\CardDeckPrinting.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\CardDeckPrinting\obj\Debug\CardDeckPrinting.pdb
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\CardDeckPrinting\bin\Debug\CardDeckPrinting.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\CardDeckPrinting\bin\Debug\CardDeckPrinting.pdb
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\CardDeckPrinting\obj\Debug\11. CardDeckPrinting.csprojResolveAssemblyReference.cache

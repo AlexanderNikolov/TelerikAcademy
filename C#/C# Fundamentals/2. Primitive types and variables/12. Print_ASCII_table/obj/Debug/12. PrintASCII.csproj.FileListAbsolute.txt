@@ -3,3 +3,9 @@ D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Print_ASCI
 D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Print_ASCII_table\obj\Debug\Print_ASCII_table.pdb
 D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Print_ASCII_table\bin\Debug\Print_ASCII_table.exe
 D:\workflow\C#\TA\C#\C# Fundamentals\2. Primitive types and variables\Print_ASCII_table\bin\Debug\Print_ASCII_table.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\2. Primitive types and variables\12. Print_ASCII_table\bin\Debug\Print_ASCII_table.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\2. Primitive types and variables\12. Print_ASCII_table\obj\Debug\Print_ASCII_table.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\2. Primitive types and variables\12. Print_ASCII_table\obj\Debug\Print_ASCII_table.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\2. Primitive types and variables\12. Print_ASCII_table\bin\Debug\Print_ASCII_table.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\2. Primitive types and variables\12. Print_ASCII_table\bin\Debug\Print_ASCII_table.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\2. Primitive types and variables\12. Print_ASCII_table\obj\Debug\12. PrintASCII.csprojResolveAssemblyReference.cache

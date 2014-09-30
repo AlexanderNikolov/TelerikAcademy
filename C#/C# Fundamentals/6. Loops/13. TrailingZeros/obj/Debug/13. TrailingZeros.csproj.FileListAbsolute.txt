@@ -1,0 +1,5 @@
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TrailingZeros\bin\Debug\TrailingZeros.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TrailingZeros\obj\Debug\TrailingZeros.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TrailingZeros\obj\Debug\TrailingZeros.pdb
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TrailingZeros\bin\Debug\TrailingZeros.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TrailingZeros\bin\Debug\TrailingZeros.pdb

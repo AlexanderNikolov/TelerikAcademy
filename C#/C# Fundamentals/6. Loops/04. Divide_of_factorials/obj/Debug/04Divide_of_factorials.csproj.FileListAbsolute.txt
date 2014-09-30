@@ -1,0 +1,18 @@
+D:\workflow\c#\TA_online_6_Loops_homework\Divide_of_factorials\bin\Debug\Divide_of_factorials.exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\Divide_of_factorials\bin\Debug\Divide_of_factorials.exe
+D:\workflow\c#\TA_online_6_Loops_homework\Divide_of_factorials\bin\Debug\Divide_of_factorials.pdb
+D:\workflow\c#\TA_online_6_Loops_homework\Divide_of_factorials\obj\Debug\04Divide_of_factorials.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA_online_6_Loops_homework\Divide_of_factorials\obj\Debug\Divide_of_factorials.exe
+D:\workflow\c#\TA_online_6_Loops_homework\Divide_of_factorials\obj\Debug\Divide_of_factorials.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\Divide_of_factorials\bin\Debug\Divide_of_factorials.exe.config
+D:\workflow\c#\TAonline_6_Loops_homework\Divide_of_factorials\obj\Debug\Divide_of_factorials.exe
+D:\workflow\c#\TAonline_6_Loops_homework\Divide_of_factorials\obj\Debug\Divide_of_factorials.pdb
+D:\workflow\c#\TAonline_6_Loops\Divide_of_factorials\bin\Debug\Divide_of_factorials.exe.config
+D:\workflow\c#\TAonline_6_Loops\Divide_of_factorials\obj\Debug\Divide_of_factorials.exe
+D:\workflow\c#\TAonline_6_Loops\Divide_of_factorials\obj\Debug\Divide_of_factorials.pdb
+D:\workflow\c#\TAonline_6_Loops\Divide_of_factorials\bin\Debug\Divide_of_factorials.exe
+D:\workflow\c#\TAonline_6_Loops\Divide_of_factorials\bin\Debug\Divide_of_factorials.pdb
+D:\workflow\c#\TAonline_6_Loops\Divide_of_factorials\obj\Debug\04Divide_of_factorials.csprojResolveAssemblyReference.cache
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Divide_of_factorials\bin\Debug\Divide_of_factorials.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Divide_of_factorials\obj\Debug\Divide_of_factorials.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Divide_of_factorials\obj\Debug\Divide_of_factorials.pdb

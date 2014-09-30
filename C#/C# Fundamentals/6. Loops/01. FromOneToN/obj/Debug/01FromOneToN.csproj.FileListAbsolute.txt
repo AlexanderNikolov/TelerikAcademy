@@ -1,0 +1,15 @@
+D:\workflow\c#\TA_online_6_Loops_homework\TA_online_6_Loops_homework\bin\Debug\TA_online_6_Loops_homework.exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\TA_online_6_Loops_homework\bin\Debug\TA_online_6_Loops_homework.exe
+D:\workflow\c#\TA_online_6_Loops_homework\TA_online_6_Loops_homework\bin\Debug\TA_online_6_Loops_homework.pdb
+D:\workflow\c#\TA_online_6_Loops_homework\TA_online_6_Loops_homework\obj\Debug\01FromOneToN.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA_online_6_Loops_homework\TA_online_6_Loops_homework\obj\Debug\TA_online_6_Loops_homework.exe
+D:\workflow\c#\TA_online_6_Loops_homework\TA_online_6_Loops_homework\obj\Debug\TA_online_6_Loops_homework.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\TA_online_6_Loops_homework\bin\Debug\TA_online_6_Loops_homework.exe.config
+D:\workflow\c#\TAonline_6_Loops_homework\TA_online_6_Loops_homework\obj\Debug\TA_online_6_Loops_homework.exe
+D:\workflow\c#\TAonline_6_Loops_homework\TA_online_6_Loops_homework\obj\Debug\TA_online_6_Loops_homework.pdb
+D:\workflow\c#\TAonline_6_Loops\TA_online_6_Loops_homework\bin\Debug\TA_online_6_Loops_homework.exe.config
+D:\workflow\c#\TAonline_6_Loops\TA_online_6_Loops_homework\obj\Debug\TA_online_6_Loops_homework.exe
+D:\workflow\c#\TAonline_6_Loops\TA_online_6_Loops_homework\obj\Debug\TA_online_6_Loops_homework.pdb
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TA_online_6_Loops_homework\bin\Debug\TA_online_6_Loops_homework.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TA_online_6_Loops_homework\obj\Debug\TA_online_6_Loops_homework.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\TA_online_6_Loops_homework\obj\Debug\TA_online_6_Loops_homework.pdb

@@ -1,0 +1,12 @@
+D:\workflow\c#\TA_online_6_Loops_homework\MinMaxNumber\bin\Debug\MinMaxNumber.exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\MinMaxNumber\bin\Debug\MinMaxNumber.exe
+D:\workflow\c#\TA_online_6_Loops_homework\MinMaxNumber\bin\Debug\MinMaxNumber.pdb
+D:\workflow\c#\TA_online_6_Loops_homework\MinMaxNumber\obj\Debug\03MinMaxNumber.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA_online_6_Loops_homework\MinMaxNumber\obj\Debug\MinMaxNumber.exe
+D:\workflow\c#\TA_online_6_Loops_homework\MinMaxNumber\obj\Debug\MinMaxNumber.pdb
+D:\workflow\c#\TAonline_6_Loops\MinMaxNumber\bin\Debug\MinMaxNumber.exe.config
+D:\workflow\c#\TAonline_6_Loops\MinMaxNumber\obj\Debug\MinMaxNumber.exe
+D:\workflow\c#\TAonline_6_Loops\MinMaxNumber\obj\Debug\MinMaxNumber.pdb
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MinMaxNumber\bin\Debug\MinMaxNumber.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MinMaxNumber\obj\Debug\MinMaxNumber.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MinMaxNumber\obj\Debug\MinMaxNumber.pdb

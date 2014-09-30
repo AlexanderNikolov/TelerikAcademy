@@ -1,0 +1,14 @@
+D:\workflow\c#\TA_online_6_Loops_homework\Divisible_by_5_and_7\bin\Debug\Divisible_by_5_and_7.exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\Divisible_by_5_and_7\bin\Debug\Divisible_by_5_and_7.exe
+D:\workflow\c#\TA_online_6_Loops_homework\Divisible_by_5_and_7\bin\Debug\Divisible_by_5_and_7.pdb
+D:\workflow\c#\TA_online_6_Loops_homework\Divisible_by_5_and_7\obj\Debug\Divisible_by_5_and_7.exe
+D:\workflow\c#\TA_online_6_Loops_homework\Divisible_by_5_and_7\obj\Debug\Divisible_by_5_and_7.pdb
+D:\workflow\c#\TAonline_6_Loops\Divisible_by_5_and_7\bin\Debug\Divisible_by_5_and_7.exe.config
+D:\workflow\c#\TAonline_6_Loops\Divisible_by_5_and_7\obj\Debug\Divisible_by_5_and_7.exe
+D:\workflow\c#\TAonline_6_Loops\Divisible_by_5_and_7\obj\Debug\Divisible_by_5_and_7.pdb
+D:\workflow\c#\TAonline_6_Loops\Divisible_by_5_and_7\bin\Debug\Divisible_by_5_and_7.exe
+D:\workflow\c#\TAonline_6_Loops\Divisible_by_5_and_7\bin\Debug\Divisible_by_5_and_7.pdb
+D:\workflow\c#\TAonline_6_Loops\Divisible_by_5_and_7\obj\Debug\02Divisible_by_5_and_7.csprojResolveAssemblyReference.cache
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Divisible_by_5_and_7\bin\Debug\Divisible_by_5_and_7.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Divisible_by_5_and_7\obj\Debug\Divisible_by_5_and_7.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Divisible_by_5_and_7\obj\Debug\Divisible_by_5_and_7.pdb

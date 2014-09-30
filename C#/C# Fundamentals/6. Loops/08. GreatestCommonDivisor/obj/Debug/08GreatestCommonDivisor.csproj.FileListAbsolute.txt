@@ -1,0 +1,15 @@
+D:\workflow\c#\TA_online_6_Loops_homework\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+D:\workflow\c#\TA_online_6_Loops_homework\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+D:\workflow\c#\TA_online_6_Loops_homework\GreatestCommonDivisor\obj\Debug\08GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA_online_6_Loops_homework\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+D:\workflow\c#\TA_online_6_Loops_homework\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+D:\workflow\c#\TAonline_6_Loops_homework\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+D:\workflow\c#\TAonline_6_Loops_homework\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb
+D:\workflow\c#\TAonline_6_Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+D:\workflow\c#\TAonline_6_Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+D:\workflow\c#\TAonline_6_Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

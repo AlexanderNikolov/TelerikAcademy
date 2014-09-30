@@ -1,0 +1,18 @@
+D:\workflow\c#\TA_online_6_Loops_homework\Matrix(not movie!)\bin\Debug\Matrix(not movie!).exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\Matrix(not movie!)\bin\Debug\Matrix(not movie!).exe
+D:\workflow\c#\TA_online_6_Loops_homework\Matrix(not movie!)\bin\Debug\Matrix(not movie!).pdb
+D:\workflow\c#\TA_online_6_Loops_homework\Matrix(not movie!)\obj\Debug\Matrix(not movie!).exe
+D:\workflow\c#\TA_online_6_Loops_homework\Matrix(not movie!)\obj\Debug\Matrix(not movie!).pdb
+D:\workflow\c#\TA_online_6_Loops_homework\Matrix(not movie!)\obj\Debug\12Matrix.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TAonline_6_Loops_homework\Matrix(not movie!)\bin\Debug\Matrix(not movie!).exe.config
+D:\workflow\c#\TAonline_6_Loops_homework\Matrix(not movie!)\obj\Debug\Matrix(not movie!).exe
+D:\workflow\c#\TAonline_6_Loops_homework\Matrix(not movie!)\obj\Debug\Matrix(not movie!).pdb
+D:\workflow\c#\TAonline_6_Loops\Matrix(not movie!)\bin\Debug\Matrix(not movie!).exe.config
+D:\workflow\c#\TAonline_6_Loops\Matrix(not movie!)\obj\Debug\Matrix(not movie!).exe
+D:\workflow\c#\TAonline_6_Loops\Matrix(not movie!)\obj\Debug\Matrix(not movie!).pdb
+D:\workflow\c#\TAonline_6_Loops\Matrix(not movie!)\bin\Debug\Matrix(not movie!).exe
+D:\workflow\c#\TAonline_6_Loops\Matrix(not movie!)\bin\Debug\Matrix(not movie!).pdb
+D:\workflow\c#\TAonline_6_Loops\Matrix(not movie!)\obj\Debug\12Matrix.csprojResolveAssemblyReference.cache
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Matrix(not movie!)\bin\Debug\Matrix(not movie!).exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Matrix(not movie!)\obj\Debug\Matrix(not movie!).exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Matrix(not movie!)\obj\Debug\Matrix(not movie!).pdb

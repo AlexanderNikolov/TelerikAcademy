@@ -1,0 +1,15 @@
+D:\workflow\c#\TA_online_6_Loops_homework\NumbersSum\bin\Debug\NumbersSum.exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\NumbersSum\bin\Debug\NumbersSum.exe
+D:\workflow\c#\TA_online_6_Loops_homework\NumbersSum\bin\Debug\NumbersSum.pdb
+D:\workflow\c#\TA_online_6_Loops_homework\NumbersSum\obj\Debug\06NumbersSum.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA_online_6_Loops_homework\NumbersSum\obj\Debug\NumbersSum.exe
+D:\workflow\c#\TA_online_6_Loops_homework\NumbersSum\obj\Debug\NumbersSum.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\NumbersSum\bin\Debug\NumbersSum.exe.config
+D:\workflow\c#\TAonline_6_Loops_homework\NumbersSum\obj\Debug\NumbersSum.exe
+D:\workflow\c#\TAonline_6_Loops_homework\NumbersSum\obj\Debug\NumbersSum.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\NumbersSum\bin\Debug\NumbersSum.exe
+D:\workflow\c#\TAonline_6_Loops_homework\NumbersSum\bin\Debug\NumbersSum.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\NumbersSum\obj\Debug\06NumbersSum.csprojResolveAssemblyReference.cache
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\NumbersSum\bin\Debug\NumbersSum.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\NumbersSum\obj\Debug\NumbersSum.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\NumbersSum\obj\Debug\NumbersSum.pdb

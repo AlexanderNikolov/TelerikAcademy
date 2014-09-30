@@ -1,0 +1,5 @@
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Matrix(not movie!)\bin\Debug\Matrix(not movie!).exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Matrix(not movie!)\obj\Debug\Matrix(not movie!).exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Matrix(not movie!)\obj\Debug\Matrix(not movie!).pdb
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Matrix(not movie!)\bin\Debug\Matrix(not movie!).exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\Matrix(not movie!)\bin\Debug\Matrix(not movie!).pdb

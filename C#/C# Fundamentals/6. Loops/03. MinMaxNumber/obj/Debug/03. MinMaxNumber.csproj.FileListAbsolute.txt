@@ -1,0 +1,5 @@
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MinMaxNumber\bin\Debug\MinMaxNumber.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MinMaxNumber\obj\Debug\MinMaxNumber.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MinMaxNumber\obj\Debug\MinMaxNumber.pdb
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MinMaxNumber\bin\Debug\MinMaxNumber.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\MinMaxNumber\bin\Debug\MinMaxNumber.pdb

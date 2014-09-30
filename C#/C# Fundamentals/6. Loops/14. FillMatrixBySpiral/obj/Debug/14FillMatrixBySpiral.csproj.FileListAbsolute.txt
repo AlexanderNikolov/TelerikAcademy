@@ -1,0 +1,18 @@
+D:\workflow\c#\TA_online_6_Loops_homework\FillMatrixBySpiral\bin\Debug\FillMatrixBySpiral.exe.config
+D:\workflow\c#\TA_online_6_Loops_homework\FillMatrixBySpiral\bin\Debug\FillMatrixBySpiral.exe
+D:\workflow\c#\TA_online_6_Loops_homework\FillMatrixBySpiral\bin\Debug\FillMatrixBySpiral.pdb
+D:\workflow\c#\TA_online_6_Loops_homework\FillMatrixBySpiral\obj\Debug\14FillMatrixBySpiral.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA_online_6_Loops_homework\FillMatrixBySpiral\obj\Debug\FillMatrixBySpiral.exe
+D:\workflow\c#\TA_online_6_Loops_homework\FillMatrixBySpiral\obj\Debug\FillMatrixBySpiral.pdb
+D:\workflow\c#\TAonline_6_Loops_homework\FillMatrixBySpiral\bin\Debug\FillMatrixBySpiral.exe.config
+D:\workflow\c#\TAonline_6_Loops_homework\FillMatrixBySpiral\obj\Debug\FillMatrixBySpiral.exe
+D:\workflow\c#\TAonline_6_Loops_homework\FillMatrixBySpiral\obj\Debug\FillMatrixBySpiral.pdb
+D:\workflow\c#\TAonline_6_Loops\FillMatrixBySpiral\bin\Debug\FillMatrixBySpiral.exe.config
+D:\workflow\c#\TAonline_6_Loops\FillMatrixBySpiral\obj\Debug\FillMatrixBySpiral.exe
+D:\workflow\c#\TAonline_6_Loops\FillMatrixBySpiral\obj\Debug\FillMatrixBySpiral.pdb
+D:\workflow\c#\TAonline_6_Loops\FillMatrixBySpiral\bin\Debug\FillMatrixBySpiral.exe
+D:\workflow\c#\TAonline_6_Loops\FillMatrixBySpiral\bin\Debug\FillMatrixBySpiral.pdb
+D:\workflow\c#\TAonline_6_Loops\FillMatrixBySpiral\obj\Debug\14FillMatrixBySpiral.csprojResolveAssemblyReference.cache
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\FillMatrixBySpiral\bin\Debug\FillMatrixBySpiral.exe.config
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\FillMatrixBySpiral\obj\Debug\FillMatrixBySpiral.exe
+D:\workflow\C#\C# 1\6. Loops\TAonline_6_Loops\FillMatrixBySpiral\obj\Debug\FillMatrixBySpiral.pdb

@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\03. LINQ_Query_Method\bin\Debug\_03.LINQ_Query_Method.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\03. LINQ_Query_Method\bin\Debug\_03.LINQ_Query_Method.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\03. LINQ_Query_Method\bin\Debug\_03.LINQ_Query_Method.pdb
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\03. LINQ_Query_Method\obj\Debug\03-05 LinqQuery_LambdaExp.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\03. LINQ_Query_Method\obj\Debug\_03.LINQ_Query_Method.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\03. LINQ_Query_Method\obj\Debug\_03.LINQ_Query_Method.pdb

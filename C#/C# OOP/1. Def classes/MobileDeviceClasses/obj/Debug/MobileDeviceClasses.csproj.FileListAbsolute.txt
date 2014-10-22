@@ -1,0 +1,18 @@
+D:\workflow\c#\TA online\OOP\homeworks\1. Def classes\TA_online_homework1\MobileDeviceClasses\bin\Debug\MobileDeviceClasses.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\1. Def classes\TA_online_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\homeworks\1. Def classes\TA_online_homework1\MobileDeviceClasses\bin\Debug\MobileDeviceClasses.exe
+D:\workflow\c#\TA online\OOP\homeworks\1. Def classes\TA_online_homework1\MobileDeviceClasses\bin\Debug\MobileDeviceClasses.pdb
+D:\workflow\c#\TA online\OOP\homeworks\1. Def classes\TA_online_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.exe
+D:\workflow\c#\TA online\OOP\homeworks\1. Def classes\TA_online_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.pdb
+D:\workflow\c#\TA online\OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\bin\Debug\MobileDeviceClasses.exe.config
+D:\workflow\c#\TA online\OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.exe
+D:\workflow\c#\TA online\OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.pdb
+D:\workflow\c#\TA online\OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\bin\Debug\MobileDeviceClasses.exe
+D:\workflow\c#\TA online\OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\bin\Debug\MobileDeviceClasses.pdb
+D:\workflow\c#\TA online\OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.csprojResolveAssemblyReference.cache
+D:\workflow\C#\C# Fundamentals 2014\OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\bin\Debug\MobileDeviceClasses.exe.config
+D:\workflow\C#\C# Fundamentals 2014\OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.exe
+D:\workflow\C#\C# Fundamentals 2014\OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.pdb
+D:\workflow\C#\C# OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\bin\Debug\MobileDeviceClasses.exe.config
+D:\workflow\C#\C# OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.exe
+D:\workflow\C#\C# OOP\1. Def classes\TA_OOP_homework1\MobileDeviceClasses\obj\Debug\MobileDeviceClasses.pdb

@@ -1,0 +1,9 @@
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\TA_OOP_homework4\bin\Debug\TA_OOP_homework4.exe.config
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\TA_OOP_homework4\bin\Debug\TA_OOP_homework4.exe
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\TA_OOP_homework4\bin\Debug\TA_OOP_homework4.pdb
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\TA_OOP_homework4\obj\Debug\01_SchoolSpace.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\TA_OOP_homework4\obj\Debug\TA_OOP_homework4.exe
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\TA_OOP_homework4\obj\Debug\TA_OOP_homework4.pdb
+D:\workflow\C#\C# OOP\4. OOP part I\TA_OOP_homework4\TA_OOP_homework4\bin\Debug\TA_OOP_homework4.exe.config
+D:\workflow\C#\C# OOP\4. OOP part I\TA_OOP_homework4\TA_OOP_homework4\obj\Debug\TA_OOP_homework4.exe
+D:\workflow\C#\C# OOP\4. OOP part I\TA_OOP_homework4\TA_OOP_homework4\obj\Debug\TA_OOP_homework4.pdb

@@ -1,0 +1,2 @@
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\StudentSpace\bin\Debug\StudentSpace.exe.config
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\StudentSpace\obj\Debug\StudentSpace.csprojResolveAssemblyReference.cache

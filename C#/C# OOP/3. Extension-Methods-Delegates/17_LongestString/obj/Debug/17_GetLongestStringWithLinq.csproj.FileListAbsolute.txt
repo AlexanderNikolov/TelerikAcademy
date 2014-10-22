@@ -1,0 +1,9 @@
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\17_LongestString\bin\Debug\17_LongestString.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\17_LongestString\bin\Debug\17_LongestString.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\17_LongestString\bin\Debug\17_LongestString.pdb
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\17_LongestString\obj\Debug\17_GetLongestStringWithLinq.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\17_LongestString\obj\Debug\17_LongestString.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\17_LongestString\obj\Debug\17_LongestString.pdb
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\17_LongestString\bin\Debug\17_LongestString.exe.config
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\17_LongestString\obj\Debug\17_LongestString.exe
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\17_LongestString\obj\Debug\17_LongestString.pdb

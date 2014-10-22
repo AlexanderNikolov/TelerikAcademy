@@ -1,0 +1,5 @@
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\4_Person\bin\Debug\4_Person.exe.config
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\4_Person\bin\Debug\4_Person.exe
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\4_Person\bin\Debug\4_Person.pdb
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\4_Person\obj\Debug\4_Person.exe
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\4_Person\obj\Debug\4_Person.pdb

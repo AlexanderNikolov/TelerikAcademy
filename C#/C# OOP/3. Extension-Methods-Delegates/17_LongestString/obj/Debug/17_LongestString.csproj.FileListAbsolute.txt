@@ -1,0 +1,1 @@
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\17_LongestString\bin\Debug\17_LongestString.exe.config

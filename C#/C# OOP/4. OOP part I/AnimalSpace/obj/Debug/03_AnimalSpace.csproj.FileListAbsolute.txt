@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\AnimalSpace\bin\Debug\AnimalSpace.exe.config
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\AnimalSpace\obj\Debug\03_AnimalSpace.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\AnimalSpace\bin\Debug\AnimalSpace.exe
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\AnimalSpace\bin\Debug\AnimalSpace.pdb
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\AnimalSpace\obj\Debug\AnimalSpace.exe
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\AnimalSpace\obj\Debug\AnimalSpace.pdb

@@ -1,0 +1,7 @@
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\StudentSpace\bin\Debug\StudentSpace.exe
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\StudentSpace\bin\Debug\StudentSpace.pdb
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\StudentSpace\obj\Debug\01_StudentSpace.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\StudentSpace\obj\Debug\StudentSpace.exe
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\StudentSpace\obj\Debug\StudentSpace.pdb
+D:\workflow\C#\C# OOP\6. Common types system\TA_OOP_homework6\StudentSpace\obj\Debug\StudentSpace.exe
+D:\workflow\C#\C# OOP\6. Common types system\TA_OOP_homework6\StudentSpace\obj\Debug\StudentSpace.pdb

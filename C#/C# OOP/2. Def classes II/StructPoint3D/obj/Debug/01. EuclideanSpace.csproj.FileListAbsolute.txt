@@ -1,0 +1,7 @@
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_online_OOP_homework2\StructPoint3D\obj\Debug\StructPoint3D.exe
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_online_OOP_homework2\StructPoint3D\obj\Debug\StructPoint3D.pdb
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\StructPoint3D\obj\Debug\StructPoint3D.exe
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\StructPoint3D\obj\Debug\StructPoint3D.pdb
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\StructPoint3D\bin\Debug\StructPoint3D.exe
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\StructPoint3D\bin\Debug\StructPoint3D.pdb
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\StructPoint3D\obj\Debug\01. EuclideanSpace.csprojResolveAssemblyReference.cache

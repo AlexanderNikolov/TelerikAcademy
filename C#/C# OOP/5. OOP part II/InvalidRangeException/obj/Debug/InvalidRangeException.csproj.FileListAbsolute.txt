@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\InvalidRangeException\bin\Debug\InvalidRangeException.exe.config
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\InvalidRangeException\bin\Debug\InvalidRangeException.exe
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\InvalidRangeException\bin\Debug\InvalidRangeException.pdb
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\InvalidRangeException\obj\Debug\InvalidRangeException.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\InvalidRangeException\obj\Debug\InvalidRangeException.exe
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\InvalidRangeException\obj\Debug\InvalidRangeException.pdb

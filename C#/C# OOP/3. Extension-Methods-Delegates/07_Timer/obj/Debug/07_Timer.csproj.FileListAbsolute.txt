@@ -1,0 +1,12 @@
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\07_Timer\bin\Debug\07_Timer.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\07_Timer\bin\Debug\07_Timer.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\07_Timer\bin\Debug\07_Timer.pdb
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\07_Timer\obj\Debug\07_Timer.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\07_Timer\obj\Debug\07_Timer.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\07_Timer\obj\Debug\07_Timer.pdb
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\07_Timer\bin\Debug\07_Timer.exe.config
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\07_Timer\obj\Debug\07_Timer.exe
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\07_Timer\obj\Debug\07_Timer.pdb
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\07_Timer\bin\Debug\07_Timer.exe
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\07_Timer\bin\Debug\07_Timer.pdb
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\07_Timer\obj\Debug\07_Timer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.pdb
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.pdb
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\IEnumerableExtensions\obj\Debug\02_IEnumerable_Extensions.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe.config
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.exe
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.pdb

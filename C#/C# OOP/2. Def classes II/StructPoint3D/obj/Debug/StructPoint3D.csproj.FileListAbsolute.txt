@@ -1,0 +1,5 @@
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\StructPoint3D\obj\Debug\StructPoint3D.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\StructPoint3D\bin\Debug\StructPoint3D.exe
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\StructPoint3D\bin\Debug\StructPoint3D.pdb
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\StructPoint3D\obj\Debug\StructPoint3D.exe
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\StructPoint3D\obj\Debug\StructPoint3D.pdb

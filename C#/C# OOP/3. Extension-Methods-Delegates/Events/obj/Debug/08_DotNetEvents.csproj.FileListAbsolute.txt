@@ -1,0 +1,9 @@
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\Events\bin\Debug\Events.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\Events\bin\Debug\Events.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\Events\bin\Debug\Events.pdb
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\Events\obj\Debug\08_DotNetEvents.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\Events\obj\Debug\Events.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\Events\obj\Debug\Events.pdb
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\Events\bin\Debug\Events.exe.config
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\Events\obj\Debug\Events.exe
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\Events\obj\Debug\Events.pdb

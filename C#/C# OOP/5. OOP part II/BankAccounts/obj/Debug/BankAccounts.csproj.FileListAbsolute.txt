@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\BankAccounts\bin\Debug\BankAccounts.exe.config
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\BankAccounts\obj\Debug\BankAccounts.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\BankAccounts\bin\Debug\BankAccounts.exe
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\BankAccounts\bin\Debug\BankAccounts.pdb
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\BankAccounts\obj\Debug\BankAccounts.exe
+D:\workflow\c#\TA online\OOP\5. OOP part II\TA_OOP_homework5\BankAccounts\obj\Debug\BankAccounts.pdb

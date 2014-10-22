@@ -1,0 +1,12 @@
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\8. Matrix\obj\Debug\08. Matrix.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\8. Matrix\bin\Debug\_8.Matrix.exe
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\8. Matrix\bin\Debug\_8.Matrix.pdb
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\8. Matrix\obj\Debug\_8.Matrix.exe
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\8. Matrix\obj\Debug\_8.Matrix.pdb
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_online_OOP_homework2\8. Matrix\obj\Debug\_8.Matrix.exe
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_online_OOP_homework2\8. Matrix\obj\Debug\_8.Matrix.pdb
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\8. Matrix\obj\Debug\_8.Matrix.exe
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\8. Matrix\obj\Debug\_8.Matrix.pdb
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\8. Matrix\bin\Debug\_8.Matrix.exe
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\8. Matrix\bin\Debug\_8.Matrix.pdb
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\8. Matrix\obj\Debug\08. Matrix.csprojResolveAssemblyReference.cache

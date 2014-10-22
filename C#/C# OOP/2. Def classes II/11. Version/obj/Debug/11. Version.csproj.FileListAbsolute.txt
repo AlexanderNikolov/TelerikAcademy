@@ -1,0 +1,9 @@
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\11. Version\bin\Debug\_11.Version.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\11. Version\bin\Debug\_11.Version.exe
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\11. Version\bin\Debug\_11.Version.pdb
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\11. Version\obj\Debug\11. Version.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\11. Version\obj\Debug\_11.Version.exe
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\11. Version\obj\Debug\_11.Version.pdb
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\11. Version\bin\Debug\_11.Version.exe.config
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\11. Version\obj\Debug\_11.Version.exe
+D:\workflow\c#\TA online\OOP\2. Def classes 2\TA_OOP_homework2\11. Version\obj\Debug\_11.Version.pdb

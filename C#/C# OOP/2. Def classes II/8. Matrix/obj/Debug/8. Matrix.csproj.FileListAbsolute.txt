@@ -1,0 +1,2 @@
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\8. Matrix\bin\Debug\_8.Matrix.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\2. Def classes 2\TA_online_OOP_homework2\8. Matrix\obj\Debug\8. Matrix.csprojResolveAssemblyReference.cache

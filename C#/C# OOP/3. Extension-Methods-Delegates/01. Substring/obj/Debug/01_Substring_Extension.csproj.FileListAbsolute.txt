@@ -1,0 +1,9 @@
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\01. Substring\bin\Debug\_01.Substring.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\01. Substring\obj\Debug\_01.Substring.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\01. Substring\obj\Debug\_01.Substring.pdb
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\01. Substring\bin\Debug\_01.Substring.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\01. Substring\bin\Debug\_01.Substring.pdb
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\01. Substring\obj\Debug\01_Substring_Extension.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\01. Substring\bin\Debug\_01.Substring.exe.config
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\01. Substring\obj\Debug\_01.Substring.exe
+D:\workflow\c#\TA online\OOP\3. Extensions and more\TA_OOP_homework3\01. Substring\obj\Debug\_01.Substring.pdb

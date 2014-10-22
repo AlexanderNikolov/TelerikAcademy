@@ -1,0 +1,5 @@
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\06_Tree\obj\Debug\06_Binary_Search_Tree.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\06_Tree\bin\Debug\06_Tree.exe
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\06_Tree\bin\Debug\06_Tree.pdb
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\06_Tree\obj\Debug\06_Tree.exe
+D:\workflow\c#\TA online\OOP\6. Common types system\TA_OOP_homework6\06_Tree\obj\Debug\06_Tree.pdb

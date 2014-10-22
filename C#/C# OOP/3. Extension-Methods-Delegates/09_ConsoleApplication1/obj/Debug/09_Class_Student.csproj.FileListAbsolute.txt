@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\09_ConsoleApplication1\bin\Debug\09_ConsoleApplication1.exe.config
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\09_ConsoleApplication1\bin\Debug\09_ConsoleApplication1.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\09_ConsoleApplication1\bin\Debug\09_ConsoleApplication1.pdb
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\09_ConsoleApplication1\obj\Debug\09_Class_Student.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\09_ConsoleApplication1\obj\Debug\09_ConsoleApplication1.exe
+D:\workflow\c#\TA online\OOP\homeworks\3. delegate\TA_online_OOP_homework3\09_ConsoleApplication1\obj\Debug\09_ConsoleApplication1.pdb

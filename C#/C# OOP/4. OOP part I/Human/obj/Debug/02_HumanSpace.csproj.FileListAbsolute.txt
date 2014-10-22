@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\Human\bin\Debug\Human.exe.config
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\Human\bin\Debug\Human.exe
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\Human\bin\Debug\Human.pdb
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\Human\obj\Debug\Human.exe
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\Human\obj\Debug\Human.pdb
+D:\workflow\c#\TA online\OOP\4. OOP part I\TA_OOP_homework4\Human\obj\Debug\02_HumanSpace.csprojResolveAssemblyReference.cache

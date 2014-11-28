@@ -1,3 +1,6 @@
 D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\TAonline_Conditional_statements_homework5\bin\Debug\TAonline_Conditional_statements_homework5.exe.config
 D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\TAonline_Conditional_statements_homework5\obj\Debug\TAonline_Conditional_statements_homework5.exe
 D:\workflow\C#\TA\C#\C# Fundamentals\5. Conditional statements\TAonline_5_Conditional_statements_homework\TAonline_Conditional_statements_homework5\obj\Debug\TAonline_Conditional_statements_homework5.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\5. Conditional Statements\01. BiggerValueExchange\bin\Debug\TAonline_Conditional_statements_homework5.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\5. Conditional Statements\01. BiggerValueExchange\obj\Debug\TAonline_Conditional_statements_homework5.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\5. Conditional Statements\01. BiggerValueExchange\obj\Debug\TAonline_Conditional_statements_homework5.pdb

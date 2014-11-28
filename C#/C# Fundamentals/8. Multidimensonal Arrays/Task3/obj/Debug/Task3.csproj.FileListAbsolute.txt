@@ -1,0 +1,6 @@
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensional arrays\TAOnline_8_MultidimensionalArrays\Task3\bin\Debug\Task3.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task3\bin\Debug\Task3.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task3\bin\Debug\Task3.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task3\bin\Debug\Task3.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task3\obj\Debug\Task3.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task3\obj\Debug\Task3.pdb

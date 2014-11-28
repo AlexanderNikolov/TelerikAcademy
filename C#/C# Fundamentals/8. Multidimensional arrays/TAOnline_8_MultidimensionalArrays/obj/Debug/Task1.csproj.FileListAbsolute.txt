@@ -1,0 +1,3 @@
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensional arrays\TAOnline_8_MultidimensionalArrays\bin\Debug\TAOnline_8_MultidimensionalArrays.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensional arrays\TAOnline_8_MultidimensionalArrays\obj\Debug\TAOnline_8_MultidimensionalArrays.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensional arrays\TAOnline_8_MultidimensionalArrays\obj\Debug\TAOnline_8_MultidimensionalArrays.pdb

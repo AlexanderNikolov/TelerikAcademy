@@ -4,108 +4,115 @@
  * indexer for accessing the matrix content and ToString().
  */
 
-using System;
-
-class Matrix
+namespace TA2013_MultidimensionalArrays_homework
 {
-    private int[,] matrix;
+    using System;
 
-    /// <summary>
-    /// Class constructor
-    /// </summary>
-    public Matrix(int rows, int columns)
+    class Matrix
     {
-        this.matrix = new int[rows, columns];
-    }
+        private int[,] matrix;
 
-    #region Properties of class.
-    public int Rows
-    {
-        get { return this.matrix.GetLength(0); }
-    }
-
-    public int Columns
-    {
-        get { return this.matrix.GetLength(1); }
-    }
-    #endregion
-
-    /// <summary>
-    /// Indexer
-    /// </summary>
-    public int this[int row, int col]
-    {
-        get 
-        { 
-            return this.matrix[row, col]; 
-        }
-        set 
-        { 
-            this.matrix[row, col] = value; 
-        }
-    }
-
-    #region Overloads. Up to many
-    public override string ToString()
-    {
-        string result = null;
-
-        for (int row = 0; row < this.Rows; row++)
+        /// <summary>
+        /// Class constructor
+        /// </summary>
+        public Matrix(int rows, int columns)
         {
-            for (int col = 0; col < this.Columns; col++)
-                result += matrix[row, col] + " ";
-            result += Environment.NewLine;
+            this.matrix = new int[rows, columns];
         }
 
-        return result;
-    }
+        #region Properties of class.
 
-    public static Matrix operator +(Matrix first, Matrix second)
-    {
-        Matrix result = new Matrix(first.Rows, first.Columns);
-
-        for (int row = 0; row < first.Rows; row++)
+        public int Rows
         {
-            for (int col = 0; col < first.Columns; col++)
+            get { return this.matrix.GetLength(0); }
+        }
+
+        public int Columns
+        {
+            get { return this.matrix.GetLength(1); }
+        }
+
+        #endregion
+
+        /// <summary>
+        /// Indexer
+        /// </summary>
+        public int this[int row, int col]
+        {
+            get
             {
-                result[row, col] = first[row, col] + second[row, col];
+                return this.matrix[row, col];
+            }
+            set
+            {
+                this.matrix[row, col] = value;
             }
         }
 
-        return result;
-    }
 
-    public static Matrix operator -(Matrix first, Matrix second)
-    {
-        Matrix result = new Matrix(first.Rows, first.Columns);
+        #region Overloads. Up to many
 
-        for (int row = 0; row < first.Rows; row++)
+        public override string ToString()
         {
-            for (int col = 0; col < first.Columns; col++)
+            string result = null;
+
+            for (int row = 0; row < this.Rows; row++)
             {
-                result[row, col] = first[row, col] - second[row, col];
+                for (int col = 0; col < this.Columns; col++)
+                    result += matrix[row, col] + " ";
+                result += Environment.NewLine;
             }
+
+            return result;
         }
 
-        return result;
-    }
-
-    public static Matrix operator *(Matrix first, Matrix second)
-    {
-        Matrix result = new Matrix(first.Rows, second.Columns);
-
-        for (int row = 0; row < result.Rows; row++)
+        public static Matrix operator +(Matrix first, Matrix second)
         {
-            for (int col = 0; col < result.Columns; col++)
+            Matrix result = new Matrix(first.Rows, first.Columns);
+
+            for (int row = 0; row < first.Rows; row++)
             {
-                for (int k = 0; k < first.Columns; k++)
+                for (int col = 0; col < first.Columns; col++)
                 {
-                    result[row, col] = first[row, k] * second[k, col];
+                    result[row, col] = first[row, col] + second[row, col];
                 }
             }
-        }
-        return result;
-    }
-    #endregion
-}
 
+            return result;
+        }
+
+        public static Matrix operator -(Matrix first, Matrix second)
+        {
+            Matrix result = new Matrix(first.Rows, first.Columns);
+
+            for (int row = 0; row < first.Rows; row++)
+            {
+                for (int col = 0; col < first.Columns; col++)
+                {
+                    result[row, col] = first[row, col] - second[row, col];
+                }
+            }
+
+            return result;
+        }
+
+        public static Matrix operator *(Matrix first, Matrix second)
+        {
+            Matrix result = new Matrix(first.Rows, second.Columns);
+
+            for (int row = 0; row < result.Rows; row++)
+            {
+                for (int col = 0; col < result.Columns; col++)
+                {
+                    for (int k = 0; k < first.Columns; k++)
+                    {
+                        result[row, col] = first[row, k] * second[k, col];
+                    }
+                }
+            }
+            return result;
+        }
+
+        #endregion
+    }
+}

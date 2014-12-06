@@ -7,7 +7,7 @@
     <ProjectGuid>{97F7D01D-1A1F-448D-8B50-8A9F0857FDBF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TAOnline_8_MultidimensionalArrays</RootNamespace>
+    <RootNamespace>TA2013_MultidimensionalArrays_homework</RootNamespace>
     <AssemblyName>Task3</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

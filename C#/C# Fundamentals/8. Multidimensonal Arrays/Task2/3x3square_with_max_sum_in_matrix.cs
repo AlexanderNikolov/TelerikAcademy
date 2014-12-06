@@ -3,7 +3,7 @@
  * and finds in it the square 3 x 3 that has maximal sum of its elements.
  */
 
-namespace TAOnline_8_MultidimensionalArrays
+namespace TA2013_MultidimensionalArrays_homework
 {
     using System;
     using System.Linq;

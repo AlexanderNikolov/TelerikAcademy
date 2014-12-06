@@ -5,7 +5,7 @@
  * the longest sequence of equal strings in the matrix 
  */
 
-namespace TAOnline_8_MultidimensionalArrays
+namespace TA2013_MultidimensionalArrays_homework
 {
     using System;
     using System.Linq;

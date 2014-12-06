@@ -1,0 +1,6 @@
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task5\bin\Debug\Task5.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task5\bin\Debug\Task5.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task5\bin\Debug\Task5.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task5\obj\Debug\Task5.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\8. Multidimensonal Arrays\Task5\obj\Debug\Task5.pdb

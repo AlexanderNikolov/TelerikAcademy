@@ -3,10 +3,9 @@
  * as shown below: (examples for n = 4)
  */
 
-namespace TAOnline_8_MultidimensionalArrays
+namespace TA2013_MultidimensionalArrays_homework
 {
     using System;
-    using System.Linq;
 
     class FillMatrix
     {
@@ -110,7 +109,7 @@ namespace TAOnline_8_MultidimensionalArrays
         }
 
         /// <summary>
-        /// Print method with correct visualization of multidimensional arrays
+        /// Print method with correct visualization
         /// </summary>
         static void PrintArray<T>(T[,] array)
         {

@@ -1,0 +1,10 @@
+D:\workflow\C#\C# 2\1. Arrays\new 2014\2014_arrays\Task1\obj\Debug\2014_arrays.exe
+D:\workflow\C#\C# 2\1. Arrays\new 2014\2014_arrays\Task1\obj\Debug\2014_arrays.pdb
+D:\workflow\C#\C# 2\1. Arrays\new 2014\2014_arrays\Task1\bin\Debug\2014_arrays.exe
+D:\workflow\C#\C# 2\1. Arrays\new 2014\2014_arrays\Task1\bin\Debug\2014_arrays.pdb
+D:\workflow\C#\C# 2\1. Arrays\new 2014\2014_arrays\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task1\obj\Debug\2014_arrays.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task1\obj\Debug\2014_arrays.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task1\bin\Debug\2014_arrays.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task1\bin\Debug\2014_arrays.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache

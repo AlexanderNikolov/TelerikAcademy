@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\C# 2\1. Arrays\new 2014\2014_arrays\2014_arrays\bin\Debug\2014_arrays.exe.config
+D:\workflow\c#\TA online\C# 2\1. Arrays\new 2014\2014_arrays\2014_arrays\bin\Debug\2014_arrays.exe
+D:\workflow\c#\TA online\C# 2\1. Arrays\new 2014\2014_arrays\2014_arrays\bin\Debug\2014_arrays.pdb
+D:\workflow\c#\TA online\C# 2\1. Arrays\new 2014\2014_arrays\2014_arrays\obj\Debug\2014_arrays.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\C# 2\1. Arrays\new 2014\2014_arrays\2014_arrays\obj\Debug\2014_arrays.exe
+D:\workflow\c#\TA online\C# 2\1. Arrays\new 2014\2014_arrays\2014_arrays\obj\Debug\2014_arrays.pdb

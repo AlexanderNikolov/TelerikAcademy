@@ -1,0 +1,5 @@
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task16\bin\Debug\Task16.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task16\bin\Debug\Task16.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task16\bin\Debug\Task16.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task16\obj\Debug\Task16.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task16\obj\Debug\Task16.pdb

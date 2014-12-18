@@ -1,0 +1,5 @@
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task4\bin\Debug\Task4.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task4\bin\Debug\Task4.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task4\bin\Debug\Task4.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task4\obj\Debug\Task4.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task4\obj\Debug\Task4.pdb

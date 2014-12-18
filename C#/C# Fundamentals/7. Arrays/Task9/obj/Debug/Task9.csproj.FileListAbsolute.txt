@@ -1,0 +1,6 @@
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task9\bin\Debug\Task9.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task9\bin\Debug\Task9.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task9\bin\Debug\Task9.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task9\obj\Debug\Task9.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\7. Arrays\Task9\obj\Debug\Task9.pdb

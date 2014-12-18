@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\10_FactorialMethod\bin\Debug\10_FactorialMethod.exe.config
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\10_FactorialMethod\bin\Debug\10_FactorialMethod.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\10_FactorialMethod\bin\Debug\10_FactorialMethod.pdb
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\10_FactorialMethod\obj\Debug\10_FactorialMethod.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\10_FactorialMethod\obj\Debug\10_FactorialMethod.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\10_FactorialMethod\obj\Debug\10_FactorialMethod.pdb

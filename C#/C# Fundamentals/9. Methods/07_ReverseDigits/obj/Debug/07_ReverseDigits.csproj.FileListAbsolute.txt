@@ -1,0 +1,5 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\07_ReverseDigits\bin\Debug\07_ReverseDigits.exe.config
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\07_ReverseDigits\bin\Debug\07_ReverseDigits.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\07_ReverseDigits\bin\Debug\07_ReverseDigits.pdb
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\07_ReverseDigits\obj\Debug\07_ReverseDigits.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\07_ReverseDigits\obj\Debug\07_ReverseDigits.pdb

@@ -1,0 +1,1 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\14_GenericSetAlgebra\bin\Debug\14_GenericSetAlgebra.exe.config

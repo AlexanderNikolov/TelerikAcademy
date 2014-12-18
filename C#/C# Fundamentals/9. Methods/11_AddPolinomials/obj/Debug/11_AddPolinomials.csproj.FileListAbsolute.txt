@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\11_AddPolinomials\bin\Debug\11_AddPolinomials.exe.config
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\11_AddPolinomials\bin\Debug\11_AddPolinomials.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\11_AddPolinomials\bin\Debug\11_AddPolinomials.pdb
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\11_AddPolinomials\obj\Debug\11_AddPolinomials.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\11_AddPolinomials\obj\Debug\11_AddPolinomials.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\11_AddPolinomials\obj\Debug\11_AddPolinomials.pdb

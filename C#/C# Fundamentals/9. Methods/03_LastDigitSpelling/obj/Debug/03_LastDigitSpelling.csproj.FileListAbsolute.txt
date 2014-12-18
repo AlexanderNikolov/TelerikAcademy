@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\03_LastDigitSpelling\bin\Debug\03_LastDigitSpelling.exe.config
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\03_LastDigitSpelling\bin\Debug\03_LastDigitSpelling.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\03_LastDigitSpelling\bin\Debug\03_LastDigitSpelling.pdb
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\03_LastDigitSpelling\obj\Debug\03_LastDigitSpelling.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\03_LastDigitSpelling\obj\Debug\03_LastDigitSpelling.pdb
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\03_LastDigitSpelling\obj\Debug\03_LastDigitSpelling.csprojResolveAssemblyReference.cache

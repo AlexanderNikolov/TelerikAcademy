@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\14_SetAlgebra\bin\Debug\14_SetAlgebra.exe.config
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\14_SetAlgebra\bin\Debug\14_SetAlgebra.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\14_SetAlgebra\bin\Debug\14_SetAlgebra.pdb
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\14_SetAlgebra\obj\Debug\14_SetAlgebra.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\14_SetAlgebra\obj\Debug\14_SetAlgebra.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework3_methods\14_SetAlgebra\obj\Debug\14_SetAlgebra.pdb

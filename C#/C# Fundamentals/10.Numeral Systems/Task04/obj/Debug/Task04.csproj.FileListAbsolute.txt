@@ -1,0 +1,6 @@
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task04\bin\Debug\Task04.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task04\bin\Debug\Task04.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task04\bin\Debug\Task04.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task04\obj\Debug\Task04.csprojResolveAssemblyReference.cache
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task04\obj\Debug\Task04.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task04\obj\Debug\Task04.pdb

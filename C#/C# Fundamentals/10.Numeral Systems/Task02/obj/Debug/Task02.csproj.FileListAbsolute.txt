@@ -1,0 +1,5 @@
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task02\bin\Debug\Task02.exe.config
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task02\bin\Debug\Task02.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task02\bin\Debug\Task02.pdb
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task02\obj\Debug\Task02.exe
+D:\workflow\TelerikAcademy\C#\C# Fundamentals\10.Numeral Systems\Task02\obj\Debug\Task02.pdb

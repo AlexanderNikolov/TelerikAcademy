@@ -1,0 +1,3 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework5_classes\07_RPN_SY\bin\Debug\07_RPN_SY.exe.config
+D:\workflow\c#\TA online\C# 2\homeworks\5. Classes\07_RPN_SY\bin\Debug\07_RPN_SY.exe.config
+D:\workflow\C#\материали за репо\10. Classes\07_RPN_SY\bin\Debug\07_RPN_SY.exe.config

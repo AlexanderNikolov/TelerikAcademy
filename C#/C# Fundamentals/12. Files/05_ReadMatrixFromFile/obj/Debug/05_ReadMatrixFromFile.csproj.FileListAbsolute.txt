@@ -1,0 +1,7 @@
+D:\workflow\C#\материали за репо\11. Files\05_ReadMatrixFromFile\bin\Debug\05_ReadMatrixFromFile.exe.config
+D:\workflow\C#\материали за репо\11. Files\05_ReadMatrixFromFile\bin\Debug\input.txt
+D:\workflow\C#\материали за репо\11. Files\05_ReadMatrixFromFile\bin\Debug\output.txt
+D:\workflow\C#\материали за репо\11. Files\05_ReadMatrixFromFile\bin\Debug\05_ReadMatrixFromFile.exe
+D:\workflow\C#\материали за репо\11. Files\05_ReadMatrixFromFile\bin\Debug\05_ReadMatrixFromFile.pdb
+D:\workflow\C#\материали за репо\11. Files\05_ReadMatrixFromFile\obj\Debug\05_ReadMatrixFromFile.exe
+D:\workflow\C#\материали за репо\11. Files\05_ReadMatrixFromFile\obj\Debug\05_ReadMatrixFromFile.pdb

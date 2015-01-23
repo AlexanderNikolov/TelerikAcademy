@@ -1,0 +1,3 @@
+D:\workflow\C#\материали за репо\11. Files\02_CompaireFiles\bin\Debug\02_CompaireFiles.exe.config
+D:\workflow\C#\материали за репо\11. Files\02_CompaireFiles\obj\Debug\02_CompaireFiles.exe
+D:\workflow\C#\материали за репо\11. Files\02_CompaireFiles\obj\Debug\02_CompaireFiles.pdb

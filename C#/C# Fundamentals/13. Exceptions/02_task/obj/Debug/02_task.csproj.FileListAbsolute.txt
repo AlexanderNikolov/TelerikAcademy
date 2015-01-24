@@ -1,0 +1,7 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\02_task\bin\Debug\02_task.exe.config
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\02_task\bin\Debug\02_task.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\02_task\bin\Debug\02_task.pdb
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\02_task\obj\Debug\02_task.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\02_task\obj\Debug\02_task.pdb
+D:\workflow\C#\материали за репо\12. Exceptions\02_task\obj\Debug\02_task.exe
+D:\workflow\C#\материали за репо\12. Exceptions\02_task\obj\Debug\02_task.pdb

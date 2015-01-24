@@ -1,0 +1,6 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\TA_online_homework7_exceptions\bin\Debug\TA_online_homework7_exceptions.exe.config
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\TA_online_homework7_exceptions\bin\Debug\TA_online_homework7_exceptions.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\TA_online_homework7_exceptions\bin\Debug\TA_online_homework7_exceptions.pdb
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\TA_online_homework7_exceptions\obj\Debug\tests.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\TA_online_homework7_exceptions\obj\Debug\TA_online_homework7_exceptions.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\TA_online_homework7_exceptions\obj\Debug\TA_online_homework7_exceptions.pdb

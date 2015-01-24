@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\12. Exceptions\02_task\obj\Debug\02_task.exe
+D:\workflow\C#\материали за репо\12. Exceptions\02_task\obj\Debug\02_task.pdb
+D:\workflow\C#\материали за репо\12. Exceptions\02_task\bin\Debug\02_task.exe
+D:\workflow\C#\материали за репо\12. Exceptions\02_task\bin\Debug\02_task.pdb
+D:\workflow\C#\материали за репо\12. Exceptions\02_task\obj\Debug\02_ThrowException.csprojResolveAssemblyReference.cache

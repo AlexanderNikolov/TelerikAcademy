@@ -1,0 +1,4 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\01_task\obj\Debug\01_task.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\01_task\obj\Debug\01_task.pdb
+D:\workflow\C#\материали за репо\12. Exceptions\01_task\obj\Debug\01_task.exe
+D:\workflow\C#\материали за репо\12. Exceptions\01_task\obj\Debug\01_task.pdb

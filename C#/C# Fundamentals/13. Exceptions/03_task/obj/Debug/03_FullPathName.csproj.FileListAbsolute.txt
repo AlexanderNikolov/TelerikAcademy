@@ -1,0 +1,4 @@
+D:\workflow\C#\материали за репо\12. Exceptions\03_task\bin\Debug\03_task.exe
+D:\workflow\C#\материали за репо\12. Exceptions\03_task\bin\Debug\03_task.pdb
+D:\workflow\C#\материали за репо\12. Exceptions\03_task\obj\Debug\03_task.exe
+D:\workflow\C#\материали за репо\12. Exceptions\03_task\obj\Debug\03_task.pdb

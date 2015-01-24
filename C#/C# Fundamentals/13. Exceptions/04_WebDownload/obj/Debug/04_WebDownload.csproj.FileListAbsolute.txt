@@ -1,0 +1,7 @@
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\04_WebDownload\bin\Debug\04_WebDownload.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\04_WebDownload\bin\Debug\04_WebDownload.pdb
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\04_WebDownload\obj\Debug\04_WebDownload.csprojResolveAssemblyReference.cache
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\04_WebDownload\obj\Debug\04_WebDownload.exe
+D:\workflow\c#\TA online\CSharp Part 2\TA_online_homework7_exceptions\04_WebDownload\obj\Debug\04_WebDownload.pdb
+D:\workflow\C#\материали за репо\12. Exceptions\04_WebDownload\obj\Debug\04_WebDownload.exe
+D:\workflow\C#\материали за репо\12. Exceptions\04_WebDownload\obj\Debug\04_WebDownload.pdb

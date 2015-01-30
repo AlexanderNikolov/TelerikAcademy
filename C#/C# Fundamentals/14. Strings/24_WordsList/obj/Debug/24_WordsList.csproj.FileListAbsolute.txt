@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\24_WordsList\bin\Debug\24_WordsList.exe.config
+D:\workflow\C#\материали за репо\13. Strings\24_WordsList\bin\Debug\24_WordsList.exe
+D:\workflow\C#\материали за репо\13. Strings\24_WordsList\bin\Debug\24_WordsList.pdb
+D:\workflow\C#\материали за репо\13. Strings\24_WordsList\obj\Debug\24_WordsList.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\24_WordsList\obj\Debug\24_WordsList.exe
+D:\workflow\C#\материали за репо\13. Strings\24_WordsList\obj\Debug\24_WordsList.pdb

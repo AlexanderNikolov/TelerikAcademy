@@ -1,0 +1,1 @@
+D:\workflow\C#\материали за репо\13. Strings\23_ConsecutiveIdenticalLettersRemoving\bin\Debug\23_ConsecutiveIdenticalLettersRemoving.exe.config

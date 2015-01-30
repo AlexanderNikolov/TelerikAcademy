@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\13. Strings\19_ExtractDates\bin\Debug\19_ExtractDates.exe.config
+D:\workflow\C#\материали за репо\13. Strings\19_ExtractDates\bin\Debug\19_ExtractDates.exe
+D:\workflow\C#\материали за репо\13. Strings\19_ExtractDates\bin\Debug\19_ExtractDates.pdb
+D:\workflow\C#\материали за репо\13. Strings\19_ExtractDates\obj\Debug\19_ExtractDates.exe
+D:\workflow\C#\материали за репо\13. Strings\19_ExtractDates\obj\Debug\19_ExtractDates.pdb

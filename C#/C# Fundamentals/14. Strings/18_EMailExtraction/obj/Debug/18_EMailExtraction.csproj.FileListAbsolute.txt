@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\18_EMailExtraction\bin\Debug\18_EMailExtraction.exe.config
+D:\workflow\C#\материали за репо\13. Strings\18_EMailExtraction\bin\Debug\18_EMailExtraction.exe
+D:\workflow\C#\материали за репо\13. Strings\18_EMailExtraction\bin\Debug\18_EMailExtraction.pdb
+D:\workflow\C#\материали за репо\13. Strings\18_EMailExtraction\obj\Debug\18_EMailExtraction.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\18_EMailExtraction\obj\Debug\18_EMailExtraction.exe
+D:\workflow\C#\материали за репо\13. Strings\18_EMailExtraction\obj\Debug\18_EMailExtraction.pdb

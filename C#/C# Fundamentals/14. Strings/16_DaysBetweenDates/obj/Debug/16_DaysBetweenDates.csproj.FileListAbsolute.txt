@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\16_DaysBetweenDates\bin\Debug\16_DaysBetweenDates.exe.config
+D:\workflow\C#\материали за репо\13. Strings\16_DaysBetweenDates\bin\Debug\16_DaysBetweenDates.exe
+D:\workflow\C#\материали за репо\13. Strings\16_DaysBetweenDates\bin\Debug\16_DaysBetweenDates.pdb
+D:\workflow\C#\материали за репо\13. Strings\16_DaysBetweenDates\obj\Debug\16_DaysBetweenDates.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\16_DaysBetweenDates\obj\Debug\16_DaysBetweenDates.exe
+D:\workflow\C#\материали за репо\13. Strings\16_DaysBetweenDates\obj\Debug\16_DaysBetweenDates.pdb

@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\13. Strings\20_Palindromes\bin\Debug\20_Palindromes.exe.config
+D:\workflow\C#\материали за репо\13. Strings\20_Palindromes\bin\Debug\20_Palindromes.exe
+D:\workflow\C#\материали за репо\13. Strings\20_Palindromes\bin\Debug\20_Palindromes.pdb
+D:\workflow\C#\материали за репо\13. Strings\20_Palindromes\obj\Debug\20_Palindromes.exe
+D:\workflow\C#\материали за репо\13. Strings\20_Palindromes\obj\Debug\20_Palindromes.pdb

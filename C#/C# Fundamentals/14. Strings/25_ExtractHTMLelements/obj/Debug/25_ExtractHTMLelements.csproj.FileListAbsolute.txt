@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\13. Strings\25_ExtractHTMLelements\bin\Debug\25_ExtractHTMLelements.exe.config
+D:\workflow\C#\материали за репо\13. Strings\25_ExtractHTMLelements\bin\Debug\25_ExtractHTMLelements.exe
+D:\workflow\C#\материали за репо\13. Strings\25_ExtractHTMLelements\bin\Debug\25_ExtractHTMLelements.pdb
+D:\workflow\C#\материали за репо\13. Strings\25_ExtractHTMLelements\obj\Debug\25_ExtractHTMLelements.exe
+D:\workflow\C#\материали за репо\13. Strings\25_ExtractHTMLelements\obj\Debug\25_ExtractHTMLelements.pdb

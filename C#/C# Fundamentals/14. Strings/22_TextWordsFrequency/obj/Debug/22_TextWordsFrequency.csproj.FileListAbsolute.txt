@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\13. Strings\22_TextWordsFrequency\bin\Debug\22_TextWordsFrequency.exe.config
+D:\workflow\C#\материали за репо\13. Strings\22_TextWordsFrequency\bin\Debug\22_TextWordsFrequency.exe
+D:\workflow\C#\материали за репо\13. Strings\22_TextWordsFrequency\bin\Debug\22_TextWordsFrequency.pdb
+D:\workflow\C#\материали за репо\13. Strings\22_TextWordsFrequency\obj\Debug\22_TextWordsFrequency.exe
+D:\workflow\C#\материали за репо\13. Strings\22_TextWordsFrequency\obj\Debug\22_TextWordsFrequency.pdb

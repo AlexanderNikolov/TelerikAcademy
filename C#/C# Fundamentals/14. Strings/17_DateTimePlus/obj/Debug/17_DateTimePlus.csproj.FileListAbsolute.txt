@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\17_DateTimePlus\bin\Debug\17_DateTimePlus.exe.config
+D:\workflow\C#\материали за репо\13. Strings\17_DateTimePlus\bin\Debug\17_DateTimePlus.exe
+D:\workflow\C#\материали за репо\13. Strings\17_DateTimePlus\bin\Debug\17_DateTimePlus.pdb
+D:\workflow\C#\материали за репо\13. Strings\17_DateTimePlus\obj\Debug\17_DateTimePlus.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\17_DateTimePlus\obj\Debug\17_DateTimePlus.exe
+D:\workflow\C#\материали за репо\13. Strings\17_DateTimePlus\obj\Debug\17_DateTimePlus.pdb

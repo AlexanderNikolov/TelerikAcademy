@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\13. Strings\21_LettersFrequency\bin\Debug\21_LettersFrequency.exe.config
+D:\workflow\C#\материали за репо\13. Strings\21_LettersFrequency\bin\Debug\21_LettersFrequency.exe
+D:\workflow\C#\материали за репо\13. Strings\21_LettersFrequency\bin\Debug\21_LettersFrequency.pdb
+D:\workflow\C#\материали за репо\13. Strings\21_LettersFrequency\obj\Debug\21_LettersFrequency.exe
+D:\workflow\C#\материали за репо\13. Strings\21_LettersFrequency\obj\Debug\21_LettersFrequency.pdb

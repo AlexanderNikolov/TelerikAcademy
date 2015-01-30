@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\13. Strings\11_FormatNumberOutput\bin\Debug\11_FormatNumberOutput.exe.config
+D:\workflow\C#\материали за репо\13. Strings\11_FormatNumberOutput\bin\Debug\11_FormatNumberOutput.exe
+D:\workflow\C#\материали за репо\13. Strings\11_FormatNumberOutput\bin\Debug\11_FormatNumberOutput.pdb
+D:\workflow\C#\материали за репо\13. Strings\11_FormatNumberOutput\obj\Debug\11_FormatNumberOutput.exe
+D:\workflow\C#\материали за репо\13. Strings\11_FormatNumberOutput\obj\Debug\11_FormatNumberOutput.pdb

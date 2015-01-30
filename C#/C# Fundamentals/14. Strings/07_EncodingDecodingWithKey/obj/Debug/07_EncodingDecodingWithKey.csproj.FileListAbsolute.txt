@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\07_EncodingDecodingWithKey\bin\Debug\07_EncodingDecodingWithKey.exe.config
+D:\workflow\C#\материали за репо\13. Strings\07_EncodingDecodingWithKey\obj\Debug\07_EncodingDecodingWithKey.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\07_EncodingDecodingWithKey\bin\Debug\07_EncodingDecodingWithKey.exe
+D:\workflow\C#\материали за репо\13. Strings\07_EncodingDecodingWithKey\bin\Debug\07_EncodingDecodingWithKey.pdb
+D:\workflow\C#\материали за репо\13. Strings\07_EncodingDecodingWithKey\obj\Debug\07_EncodingDecodingWithKey.exe
+D:\workflow\C#\материали за репо\13. Strings\07_EncodingDecodingWithKey\obj\Debug\07_EncodingDecodingWithKey.pdb

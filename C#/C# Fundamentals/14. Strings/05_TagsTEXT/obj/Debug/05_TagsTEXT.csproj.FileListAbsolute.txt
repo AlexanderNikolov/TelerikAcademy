@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\05_TagsTEXT\bin\Debug\05_TagsTEXT.exe.config
+D:\workflow\C#\материали за репо\13. Strings\05_TagsTEXT\bin\Debug\05_TagsTEXT.exe
+D:\workflow\C#\материали за репо\13. Strings\05_TagsTEXT\bin\Debug\05_TagsTEXT.pdb
+D:\workflow\C#\материали за репо\13. Strings\05_TagsTEXT\obj\Debug\05_TagsTEXT.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\05_TagsTEXT\obj\Debug\05_TagsTEXT.exe
+D:\workflow\C#\материали за репо\13. Strings\05_TagsTEXT\obj\Debug\05_TagsTEXT.pdb

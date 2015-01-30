@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\08_ExtractSentences\bin\Debug\08_ExtractSentences.exe.config
+D:\workflow\C#\материали за репо\13. Strings\08_ExtractSentences\bin\Debug\08_ExtractSentences.exe
+D:\workflow\C#\материали за репо\13. Strings\08_ExtractSentences\bin\Debug\08_ExtractSentences.pdb
+D:\workflow\C#\материали за репо\13. Strings\08_ExtractSentences\obj\Debug\08_ExtractSentences.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\08_ExtractSentences\obj\Debug\08_ExtractSentences.exe
+D:\workflow\C#\материали за репо\13. Strings\08_ExtractSentences\obj\Debug\08_ExtractSentences.pdb

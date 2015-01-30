@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\13_ReverseSentence\bin\Debug\13_ReverseSentence.exe.config
+D:\workflow\C#\материали за репо\13. Strings\13_ReverseSentence\bin\Debug\13_ReverseSentence.exe
+D:\workflow\C#\материали за репо\13. Strings\13_ReverseSentence\bin\Debug\13_ReverseSentence.pdb
+D:\workflow\C#\материали за репо\13. Strings\13_ReverseSentence\obj\Debug\13_ReverseSentence.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\13_ReverseSentence\obj\Debug\13_ReverseSentence.exe
+D:\workflow\C#\материали за репо\13. Strings\13_ReverseSentence\obj\Debug\13_ReverseSentence.pdb

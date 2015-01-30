@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\13. Strings\03_Brackets\bin\Debug\03_Brackets.exe.config
+D:\workflow\C#\материали за репо\13. Strings\03_Brackets\bin\Debug\03_Brackets.exe
+D:\workflow\C#\материали за репо\13. Strings\03_Brackets\bin\Debug\03_Brackets.pdb
+D:\workflow\C#\материали за репо\13. Strings\03_Brackets\obj\Debug\03_Brackets.exe
+D:\workflow\C#\материали за репо\13. Strings\03_Brackets\obj\Debug\03_Brackets.pdb

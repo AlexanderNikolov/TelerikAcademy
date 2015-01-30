@@ -1,0 +1,7 @@
+D:\workflow\C#\материали за репо\13. Strings\14_TranslatorDictionary\bin\Debug\14_TranslatorDictionary.exe.config
+D:\workflow\C#\материали за репо\13. Strings\14_TranslatorDictionary\obj\Debug\14_TranslatorDictionary.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\14_TranslatorDictionary\bin\Debug\dictionary.txt
+D:\workflow\C#\материали за репо\13. Strings\14_TranslatorDictionary\bin\Debug\14_TranslatorDictionary.exe
+D:\workflow\C#\материали за репо\13. Strings\14_TranslatorDictionary\bin\Debug\14_TranslatorDictionary.pdb
+D:\workflow\C#\материали за репо\13. Strings\14_TranslatorDictionary\obj\Debug\14_TranslatorDictionary.exe
+D:\workflow\C#\материали за репо\13. Strings\14_TranslatorDictionary\obj\Debug\14_TranslatorDictionary.pdb

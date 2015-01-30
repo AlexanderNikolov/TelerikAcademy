@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\06_20CharsReadLine\bin\Debug\06_20CharsReadLine.exe.config
+D:\workflow\C#\материали за репо\13. Strings\06_20CharsReadLine\bin\Debug\06_20CharsReadLine.exe
+D:\workflow\C#\материали за репо\13. Strings\06_20CharsReadLine\bin\Debug\06_20CharsReadLine.pdb
+D:\workflow\C#\материали за репо\13. Strings\06_20CharsReadLine\obj\Debug\06_ReadLine20chars.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\06_20CharsReadLine\obj\Debug\06_20CharsReadLine.exe
+D:\workflow\C#\материали за репо\13. Strings\06_20CharsReadLine\obj\Debug\06_20CharsReadLine.pdb

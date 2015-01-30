@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\13. Strings\02\bin\Debug\02.exe.config
+D:\workflow\C#\материали за репо\13. Strings\02\bin\Debug\02.exe
+D:\workflow\C#\материали за репо\13. Strings\02\bin\Debug\02.pdb
+D:\workflow\C#\материали за репо\13. Strings\02\obj\Debug\02.exe
+D:\workflow\C#\материали за репо\13. Strings\02\obj\Debug\02.pdb

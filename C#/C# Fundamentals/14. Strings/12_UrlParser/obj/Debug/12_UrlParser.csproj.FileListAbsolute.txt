@@ -1,0 +1,5 @@
+D:\workflow\C#\материали за репо\13. Strings\12_UrlParser\bin\Debug\12_UrlParser.exe.config
+D:\workflow\C#\материали за репо\13. Strings\12_UrlParser\bin\Debug\12_UrlParser.exe
+D:\workflow\C#\материали за репо\13. Strings\12_UrlParser\bin\Debug\12_UrlParser.pdb
+D:\workflow\C#\материали за репо\13. Strings\12_UrlParser\obj\Debug\12_UrlParser.exe
+D:\workflow\C#\материали за репо\13. Strings\12_UrlParser\obj\Debug\12_UrlParser.pdb

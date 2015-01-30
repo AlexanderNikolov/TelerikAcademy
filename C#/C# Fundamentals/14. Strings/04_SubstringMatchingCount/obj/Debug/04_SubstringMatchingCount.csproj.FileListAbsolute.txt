@@ -1,0 +1,6 @@
+D:\workflow\C#\материали за репо\13. Strings\04_SubstringMatchingCount\bin\Debug\04_SubstringMatchingCount.exe.config
+D:\workflow\C#\материали за репо\13. Strings\04_SubstringMatchingCount\bin\Debug\04_SubstringMatchingCount.exe
+D:\workflow\C#\материали за репо\13. Strings\04_SubstringMatchingCount\bin\Debug\04_SubstringMatchingCount.pdb
+D:\workflow\C#\материали за репо\13. Strings\04_SubstringMatchingCount\obj\Debug\04_SubstringMatchingCount.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\04_SubstringMatchingCount\obj\Debug\04_SubstringMatchingCount.exe
+D:\workflow\C#\материали за репо\13. Strings\04_SubstringMatchingCount\obj\Debug\04_SubstringMatchingCount.pdb

@@ -1,0 +1,7 @@
+D:\workflow\C#\материали за репо\01\bin\Debug\01.exe.config
+D:\workflow\C#\материали за репо\13. Strings\01\bin\Debug\01.exe.config
+D:\workflow\C#\материали за репо\13. Strings\01\bin\Debug\01.exe
+D:\workflow\C#\материали за репо\13. Strings\01\bin\Debug\01.pdb
+D:\workflow\C#\материали за репо\13. Strings\01\obj\Debug\01.csprojResolveAssemblyReference.cache
+D:\workflow\C#\материали за репо\13. Strings\01\obj\Debug\01.exe
+D:\workflow\C#\материали за репо\13. Strings\01\obj\Debug\01.pdb

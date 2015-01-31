@@ -1,0 +1,5 @@
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\02.ReverseNumberUsingStack\bin\Debug\02.ReverseNumberUsingStack.exe.config
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\02.ReverseNumberUsingStack\bin\Debug\02.ReverseNumberUsingStack.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\02.ReverseNumberUsingStack\bin\Debug\02.ReverseNumberUsingStack.pdb
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\02.ReverseNumberUsingStack\obj\Debug\02.ReverseNumberUsingStack.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\02.ReverseNumberUsingStack\obj\Debug\02.ReverseNumberUsingStack.pdb

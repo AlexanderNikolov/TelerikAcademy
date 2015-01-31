@@ -1,0 +1,5 @@
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe.config
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.pdb
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.pdb

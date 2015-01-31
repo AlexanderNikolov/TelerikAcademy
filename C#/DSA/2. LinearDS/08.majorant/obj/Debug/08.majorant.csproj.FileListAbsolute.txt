@@ -1,0 +1,6 @@
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\08.majorant\bin\Debug\08.majorant.exe.config
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\08.majorant\obj\Debug\08.majorant.csprojResolveAssemblyReference.cache
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\08.majorant\bin\Debug\08.majorant.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\08.majorant\bin\Debug\08.majorant.pdb
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\08.majorant\obj\Debug\08.majorant.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\08.majorant\obj\Debug\08.majorant.pdb

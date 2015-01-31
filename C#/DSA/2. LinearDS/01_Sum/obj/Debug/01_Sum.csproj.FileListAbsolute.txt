@@ -1,0 +1,6 @@
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\01_Sum\bin\Debug\01_Sum.exe.config
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\01_Sum\bin\Debug\01_Sum.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\01_Sum\bin\Debug\01_Sum.pdb
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\01_Sum\obj\Debug\01_Sum.csprojResolveAssemblyReference.cache
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\01_Sum\obj\Debug\01_Sum.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\01_Sum\obj\Debug\01_Sum.pdb

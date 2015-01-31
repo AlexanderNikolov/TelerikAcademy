@@ -1,0 +1,6 @@
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.exe.config
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.pdb
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.csprojResolveAssemblyReference.cache
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.exe
+D:\workflow\C#\DSA\homeworks\homework 2\DSA_homework2\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.pdb

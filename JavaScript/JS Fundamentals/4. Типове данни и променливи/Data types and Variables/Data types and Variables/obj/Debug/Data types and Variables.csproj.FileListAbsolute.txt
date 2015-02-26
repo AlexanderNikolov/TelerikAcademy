@@ -1,0 +1,6 @@
+D:\workflow\Javascript\2014\homeworks\JavaScript Fundamentals 2014\4. Типове данни и променливи\Data types and Variables\Data types and Variables\bin\Data types and Variables.dll.config
+D:\workflow\Javascript\2014\homeworks\JavaScript Fundamentals 2014\4. Типове данни и променливи\Data types and Variables\Data types and Variables\bin\Data types and Variables.dll
+D:\workflow\Javascript\2014\homeworks\JavaScript Fundamentals 2014\4. Типове данни и променливи\Data types and Variables\Data types and Variables\bin\Data types and Variables.pdb
+D:\workflow\Javascript\2014\homeworks\JavaScript Fundamentals 2014\4. Типове данни и променливи\Data types and Variables\Data types and Variables\obj\Debug\Data types and Variables.csprojResolveAssemblyReference.cache
+D:\workflow\Javascript\2014\homeworks\JavaScript Fundamentals 2014\4. Типове данни и променливи\Data types and Variables\Data types and Variables\obj\Debug\Data types and Variables.dll
+D:\workflow\Javascript\2014\homeworks\JavaScript Fundamentals 2014\4. Типове данни и променливи\Data types and Variables\Data types and Variables\obj\Debug\Data types and Variables.pdb

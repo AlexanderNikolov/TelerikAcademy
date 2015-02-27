@@ -1,0 +1,6 @@
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\5. Оператори и изрази\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.dll.config
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\5. Оператори и изрази\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.dll
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\5. Оператори и изрази\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.pdb
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\5. Оператори и изрази\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.csprojResolveAssemblyReference.cache
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\5. Оператори и изрази\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.dll
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\5. Оператори и изрази\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.pdb

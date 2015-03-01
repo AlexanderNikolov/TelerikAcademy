@@ -1,0 +1,12 @@
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\Conditional Statements\bin\Conditional Statements.dll.config
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\Conditional Statements\bin\Conditional Statements.dll
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\Conditional Statements\bin\Conditional Statements.pdb
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\Conditional Statements\obj\Debug\Conditional Statements.csprojResolveAssemblyReference.cache
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\Conditional Statements\obj\Debug\Conditional Statements.dll
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\Conditional Statements\obj\Debug\Conditional Statements.pdb
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\bin\Conditional Statements.dll.config
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\bin\Conditional Statements.dll
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\bin\Conditional Statements.pdb
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\obj\Debug\Conditional Statements.csprojResolveAssemblyReference.cache
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\obj\Debug\Conditional Statements.dll
+D:\workflow\JavaScript\homeworks\JavaScript Fundamentals 2014\6. Условни конструкции\Conditional Statements\obj\Debug\Conditional Statements.pdb

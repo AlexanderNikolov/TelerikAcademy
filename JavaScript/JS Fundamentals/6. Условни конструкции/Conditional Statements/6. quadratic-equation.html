@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>jsFundamentals. Conditional Statements. Homework-task5</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    ax2 + bx + c = 0
+    <br /> <br />
+    <label for="tb-first">Input coefficient a: </label>
+    <input type="text" id="tb-first" />
+    <br />
+    <label for="tb-second">Input coefficient b: </label>
+    <input type="text" id="tb-second" />
+    <br />
+    <label for="tb-third">Input coefficient c: </label>
+    <input type="text" id="tb-third" />
+    <br />
+    <a href="#" onclick="onSolveButtonClick()">Solve quadratic equation</a>
+    <div id="console">
+    </div>
+    <script src="scripts/js-console.js">
+    </script>
+
+    <script>
+        function onSolveButtonClick() {
+            /* Write a script that enters the coefficients a, b and c
+               of a quadratic equation
+               a*x 2  + b*x + c = 0 */
+            var a = jsConsole.readInteger("#tb-first");
+            var b = jsConsole.readInteger("#tb-second");
+            var c = jsConsole.readInteger("#tb-third");
+
+            var delta = (b * b) - (4 * a * c);
+            if (delta > 0) {
+                jsConsole.writeLine("Equation first root = " + ((-b + Math.sqrt(delta)) / (2 * a)));
+                jsConsole.writeLine("Equation second root = " + ((-b - Math.sqrt(delta)) / (2 * a)));
+            } else if (delta == 0) {
+                jsConsole.writeLine("Equation have one root = " + (-b / (2 * a)));
+            } else {
+                jsConsole.writeLine("Equation haven\'t real roots!");
+            }
+        }
+    </script>
+</body>
+</html>

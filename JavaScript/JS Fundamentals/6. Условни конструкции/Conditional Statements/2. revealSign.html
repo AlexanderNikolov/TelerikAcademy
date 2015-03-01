@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>jsFundamentals. Conditional Statements. Homework-task2</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <label for="tb-first">First number: </label>
+    <input type="text" id="tb-first" />
+    <br />
+    <label for="tb-second">Second number: </label>
+    <input type="text" id="tb-second" />
+    <br />
+    <label for="tb-third">First number: </label>
+    <input type="text" id="tb-third" />
+    <br />
+    <a href="#" onclick="onRevealSignButtonClick()">Reveal Sign</a>
+    <div id="console">
+    </div>
+    <script src="scripts/js-console.js">
+    </script>
+
+    <script>
+        function onRevealSignButtonClick() {
+            /* Write a script that shows the sign (+ or -) of the
+               product of three real numbers without calculating it.
+               Use a sequence of if statements. */
+            var first = jsConsole.readFloat("#tb-first"),
+                second = jsConsole.readFloat("#tb-second"),
+                third = jsConsole.readFloat("#tb-third");
+            var signOfProduct = true;
+
+            if (first < 0) {
+                signOfProduct = !signOfProduct;
+            }
+            if (second < 0) {
+                signOfProduct = !signOfProduct;
+            }
+            if (third < 0) {
+                signOfProduct = !signOfProduct;
+            }
+
+            jsConsole.writeLine(signOfProduct ? "Sign of product of numbers will be \'+\'" :
+                                                "Sign of product of numbers will be \'-\'")
+        }
+
+    </script>
+</body>
+
+</html>

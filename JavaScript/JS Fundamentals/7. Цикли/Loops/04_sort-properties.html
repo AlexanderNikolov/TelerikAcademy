@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>jsFundamentals. Loops. Homework</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div id="console"></div>
+    <script src="scripts/js-console.js">
+    </script>
+
+    <script>
+        (function sortProperties() {
+            /* Write a script that finds the lexicographically
+            smallest and largest property in document, window
+            and navigator objects
+            */
+            var properties = document.getElementsByTagName('*');
+            var min = properties[0],
+                max = properties[0];
+
+            for (var i = 0, len = properties.length; i < len; i++) {
+                if (min > properties[i]) {
+                    min = properties[i]
+                }
+                if (max < properties[i]) {
+                    max = properties[i]
+                }
+            }
+
+            for (var prop in window) {
+                if (min > prop) {
+                    min = prop;
+                }
+                if (max < prop) {
+                    max = prop;
+                }
+            }
+
+            for (var prop in navigator) {
+                if (min > prop) {
+                    min = prop;
+                }
+                if (max < prop) {
+                    max = prop;
+                }
+            }
+
+            jsConsole.writeLine(min);
+            jsConsole.writeLine(max);
+            
+        })();
+
+        //different approach
+        (function getProperties(containers) {
+           
+            var objectProps = [];
+
+            for (var obj in containers) {
+                for (var prop in containers[obj]) {
+                    objectProps.push(prop);
+                }
+            }
+
+            objectProps.sort();
+
+            jsConsole.writeLine(objectProps.shift());
+            jsConsole.writeLine(objectProps.pop());
+
+        }) ([document, window, navigator]);
+
+    </script>
+</body>
+</html>

@@ -8,19 +8,25 @@ namespace MobileDeviceClasses
         private double? size = null;
         private uint? colors = null;
 
-        //default constructor
+        #region constructors
+        /// <summary>
+        /// default constructor
+        /// </summary>
         public Display()
         {
         }
 
-        //constr w parameters
+        /// <summary>
+        /// ctor w/ parameters
+        /// </summary>
         public Display(double displaySize, uint numberOfColors)
         {
             this.size = displaySize;
             this.colors = numberOfColors;
         }
+        #endregion
 
-        //properties size
+        #region properties
         public double? Size
         {
             get { return this.size; }
@@ -45,8 +51,9 @@ namespace MobileDeviceClasses
                 this.colors = value;
             }
         }
+        #endregion
 
-        //methods section
+        #region methods
         public override string ToString()
         {
             return string.Format("{0}\", {1} colors",
@@ -57,5 +64,6 @@ namespace MobileDeviceClasses
         {
             Console.WriteLine(this.ToString());
         }
+        #endregion
     }
 }

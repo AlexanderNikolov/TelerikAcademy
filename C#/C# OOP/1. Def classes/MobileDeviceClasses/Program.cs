@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using MobileDeviceClasses;
 
-class GSMTest_Main
+class GSMTest_Program
 {
     static void Main()
     {

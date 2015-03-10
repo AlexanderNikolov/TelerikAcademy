@@ -5,6 +5,7 @@
  *11. Add a method that calculates the total price of the calls in the call history. 
  *    Assume the price per minute is fixed and is provided as a parameter.
  */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,28 +15,33 @@ namespace MobileDeviceClasses
 {
     public class Call : IComparable <Call> //make this class collection
     {
-        //fields
         private DateTime date;
         private string dialedNumber;
         private TimeSpan duration = TimeSpan.Zero;
 
         private readonly List<Call> calls = new List<Call>();
 
-        //default parameterless constructor (just for training :)
-        public Call()
-        {
+        #region constructors
+        /// <summary>
+        /// default parameterless constructor (just for training :))
+        /// </summary>
+        public Call() { 
         }
-
-        //constructor w parameters and reuse
+        
+        /// <summary>
+        /// constructor w parameters and re-use
+        /// </summary>
         public Call(DateTime date, string dialedNumber, TimeSpan duration) 
             : this()
         {
             this.Date = date;
+            this.Time = time;
             this.Dialed = dialedNumber;
             this.CallTime = duration;
         }
+        #endregion
 
-        //class propertires section
+        #region class properties
         public DateTime Date
         {
             get { return this.date; }
@@ -58,25 +64,28 @@ namespace MobileDeviceClasses
             get { return this.duration; }
             set { this.duration = value; }
         }
+        #endregion
 
-        //override methods (important)
-        public override string ToString()
-        {
-             StringBuilder callInfo = new StringBuilder();
+        /// <summary>
+        /// mandatory method for every IComparable class
+        /// </summary>
+        public int CompareTo(Call other) { 
             
-            callInfo.Append(string.Format("  {0, -26} -- {1} -- Duration: {2}",
-                this.Date, this.Dialed, this.CallTime ));
-
-            return callInfo.ToString();
-        }
-
-        //mandatory for IComparable class
-        public int CompareTo(Call other) 
-        {
             return (int)(this.CallTime - other.CallTime).TotalSeconds;
         }
 
-        //custom class methods
+        #region override methods
+        public override string ToString() {
+            StringBuilder callInfo = new StringBuilder();
+
+            callInfo.Append(string.Format("  {0, -26} -- {1} -- Duration: {2}",
+                this.Date, this.Dialed, this.CallTime));
+
+            return callInfo.ToString();
+        }
+        #endregion 
+
+        #region custom methods
         public void CallInfo()
         {
             StringBuilder call = new StringBuilder();
@@ -109,5 +118,6 @@ namespace MobileDeviceClasses
         {
             return (decimal)calls.Sum(x => x.CallTime.TotalMinutes) * pricePerMinute;
         }
+        #endregion
     }
 }

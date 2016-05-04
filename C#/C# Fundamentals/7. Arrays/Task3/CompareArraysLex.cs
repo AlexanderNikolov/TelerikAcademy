@@ -10,43 +10,62 @@ namespace TA2013_CSharp2_Arrays_homework
     {
         static void Main(string[] args)
         {
-            char[] abcd = { 'a', 'b', 'c', 'd' };
-            char[] abad = { 'a', 'b', 'a', 'd' };
-            char[] abc = { 'a', 'b', 'c' };
+            string charArr1asString = Console.ReadLine();
+            string charArr2asString = Console.ReadLine();
 
-            ArrayComparer(abc, abc);
-            ArrayComparer(abc, abcd);
-            //ArrayComparer(abcd, abad);
-            //ArrayComparer(abc, abad);
+            var firstArray = charArr1asString.ToCharArray();
+            var secondArray = charArr2asString.ToCharArray();
 
+            ArrayComparer(firstArray, secondArray);
         }
 
-        static void ArrayComparer(char[] a, char[] b)
-        {
-            int len = (a.Length > b.Length) ? b.Length : a.Length;
-            bool compareArrays = false;
-            bool equal = true;
-
-            for (int index = 0; index < len; index++)
-            {
-                if (a[index] == b[index])
-                {
-                    continue;
-                }
-                if (a[index] < b[index])
-                {
-                    compareArrays = true;
-                    equal = false;
-                    break;
-                }
-            }
-
-            if (equal)
-                Console.WriteLine("Arrays are indentical\n");
-            else if (!compareArrays)
-                Console.WriteLine("Through index {0}, first array is lexicographically first\n", len);
+        static char smallLetterToCapital(char ch)
+        { // check for small english or cyrillic letter and returns corresponding capital letter, else return same symbol
+            if ((ch >= 'a' && ch <= 'z') || (ch >= 'а' && ch <= 'я'))
+                return Convert.ToChar(ch - 32);
             else
-                Console.WriteLine("Through index {0}, second array is lexicographically first\n", len);
+                return ch;
+        }
+
+        static void ArrayComparer(char[] firstArray, char[] secondArray)
+        { //TODO exclude printing of results in separate method
+
+            int length = (firstArray.Length > secondArray.Length) ? secondArray.Length : firstArray.Length;
+
+            if (firstArray.Length > secondArray.Length)
+            {
+                Console.WriteLine(">");
+            }
+            else if (firstArray.Length == secondArray.Length)
+            {
+                bool equal = true;
+
+                for (int i = 0; i < length; i++)
+                {
+                    char ch1 = smallLetterToCapital(firstArray[i]);
+                    char ch2 = smallLetterToCapital(secondArray[i]);
+
+                    if (ch1 > ch2 && equal == true)
+                    {
+                        Console.WriteLine(">");
+                        equal = false;
+                        break;
+                    }
+                    else if (ch2 > ch1 && equal == true)
+                    {
+                        Console.WriteLine("<");
+                        equal = false;
+                        break;
+                    }
+                }
+
+                if (equal)
+                    Console.WriteLine("=");
+            }
+            else
+            {
+                Console.WriteLine("<");
+            }
         }
     }
 }

@@ -89,5 +89,29 @@ namespace TA2013_CSharp2_Arrays_homework
 
             return true;
         }
+        
+        //best variant for this task
+        private static int sortingByRemoving(List<int> input)
+        {
+            int[] sortedNumsCount = Enumerable.Repeat(1, input.Count).ToArray();
+
+            int maxSortedNums = 1;
+            for (int i = 1; i < input.Count; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    if (input[i] >= input[j] && sortedNumsCount[i] <= sortedNumsCount[j] + 1)
+                    {
+                        sortedNumsCount[i] = sortedNumsCount[j] + 1;
+                        if (maxSortedNums < sortedNumsCount[i])
+                        {
+                            maxSortedNums = sortedNumsCount[i];
+                        }
+                    }
+                }
+            }
+
+            return maxSortedNums;
+        }
     }
 }

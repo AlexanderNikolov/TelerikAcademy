@@ -10,203 +10,111 @@ namespace TA2013_MultidimensionalArrays_homework
     using System;
     using System.Linq;
 
-    class LongestSeqEqualStringsMatrix
+    class Program
     {
         static void Main(string[] args)
         {
-            
-            string[,] matrix =  
+            //input from bgcoder
+            var sizes = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            var rows = sizes[0];
+            var cols = sizes[1];
+
+            var matrix = new string[rows, cols];
+
+            for (int i = 0; i < rows; ++i)
             {
-                {"ha", "fifi", "ho",   "hi"}, 
-                {"fo", "ha",   "hihi", "xx"},
-                {"vi", "ho",   "ha",   "xx"},
-            };
+                var rowInput = Console.ReadLine().Split(' ').ToArray();
 
-            int bestIndexCol = 0;
-            int bestIndexRow = 0;
-            int bestLength = 0;
-
-            //searching in columns
-            for (int i = 0; i < matrix.GetLength(0); i++)
-            {
-                int length = 1;
-                int indexCol = 0;
-
-                for (int j = 1; j < matrix.GetLength(1); j++)
+                for (int j = 0; j < cols; ++j)
                 {
-                    if (matrix[i, indexCol] == matrix[i, j])
-                    {
-                        length++;
-                    }
-                    else
-                    {
-                        if (length > 2)
-                        {
-                            if (bestLength < length)
-                            {
-                                bestIndexCol = indexCol;
-                                bestIndexRow = i;
-                                bestLength = length;
-                            }
-                        }
-
-                        indexCol = j;
-                        length = 1;
-                    }
-
-                    //in case if subset scrab end of loop
-                    if (length > 2)
-                    {
-                        if (bestLength < length)
-                        {
-                            bestIndexCol = indexCol;
-                            bestIndexRow = i;
-                            bestLength = length;
-                        }
-                    }
+                    matrix[i, j] = rowInput[j];
                 }
-            }
+            }//end of input
 
-            //searching in rows
-            for (int ii = 0; ii < matrix.GetLength(1); ii++)
+
+            int bestLength = int.MinValue;
+            int currentLength = 1;
+            var row = new List<string>();
+            var col = new List<string>();
+            var diag = new List<string>();
+
+            //check in rows
+            for (int i = 0; i < rows; ++i)
             {
-                int length = 1;
-                int indexRow = 0;
-                for (int jj = 1; jj < matrix.GetLength(0); jj++)
-                {
-                    if (matrix[indexRow, ii] == matrix[jj, ii]) 
-                    {
-                        length++;
-                    }
-                    else
-                    {
-                        if (length > 2)
-                        {
-                            if (bestLength < length)
-                            {
-                                bestIndexCol = ii;
-                                bestIndexRow = indexRow;
-                                bestLength = length;
-                            }
-                        }
+                
+                for (int j = 0; j < cols; ++j)
+                    row.Add(matrix[i, j]);
 
-                        indexRow = jj;
-                        length = 1;
-                    }
-                    //in case if subset scrab end of loop
-                    if (length > 2)
-                    {
-                        if (bestLength < length)
-                        {
-                            bestIndexCol = ii;
-                            bestIndexRow = indexRow;
-                            bestLength = length;
-                        }
-                    }
-                }
+                currentLength = checkDuplicates(row);
+                if (currentLength > bestLength)
+                    bestLength = currentLength;
+
+                row.Clear();
+
             }
 
-            //searching diagonals
-            int limit = Math.Abs(matrix.GetLength(0) - matrix.GetLength(1)) + 1;
-
-            for (int iter = 0; iter < limit; iter++)
+            //check in columns
+            for (int j = 0; j < cols; ++j)
             {
-                int length = 1;
-                for (int step = 1; step < matrix.GetLength(1) - 1; step++)
-                {
-                    if (matrix[step - 1, step - 1] == matrix[step, step])
-                    {
-                        length++;
-                    }
-                    else
-                    {
-                        if (length > 2)
-                        {
-                            if (bestLength < length)
-                            {
-                                bestIndexCol = iter;
-                                bestIndexRow = iter;
-                                bestLength = length;
-                            }
-                        }
-                    }
-                    //in case if subset scrab end of loop
-                    if (length > 2)
-                    {
-                        if (bestLength < length)
-                        {
-                            bestIndexCol = iter;
-                            bestIndexRow = iter;
-                            bestLength = length;
-                        }
-                    }
-                }
+                for (int i = 0; i < rows; i++)
+                    col.Add(matrix[i, j]);
+
+                currentLength = checkDuplicates(col);
+                if (currentLength > bestLength)
+                    bestLength = currentLength;
+
+                col.Clear();
             }
 
-            int count = 1;
-            string result = "";
-            for (int i = 0; i <= matrix.GetLength(0); i++)
+            //check diagonaly
+            for (int slice = 0; slice < rows + cols - 1; ++slice)
             {
-                for (int j = 0; j <= matrix.GetLength(1); j++)
-                {
-                    int col = j;
-                    int row = i;
+                int z1 = slice < cols ? 0 : slice - cols + 1;
+                int z2 = slice < rows ? 0 : slice - rows + 1;
 
-                    if (col >= matrix.GetLength(1) - 1 || row >= matrix.GetLength(0) - 1)
-                    {
-                        break;
-                    }
-                    else
-                    {
-                        while (col > 0 && row < matrix.GetLength(0) - 1)
-                        {
-                            if (matrix[row, col] == matrix[row + 1, col - 1])
-                            {
-                                count++;
-                                if (count >= bestLength)
-                                {
-                                    result = matrix[row, col];
-                                    bestLength = count;
-                                }
-                                
-                                row++;
-                                col--;
-                            }
-                            else
-                            {
-                                count = 1;
-                                break;
-                            }
-                        }
+                for (int j = slice - z2; j >= z1; --j)
+                    diag.Add(matrix[j,slice - j]);
 
-                        count = 1;
-                    }
-                }
+                currentLength = checkDuplicates(diag);
+                if (currentLength > bestLength)
+                    bestLength = currentLength;
+
+                diag.Clear();
             }
 
-            //output
-            for (int index = 0; index < bestLength; index++)
+            for (int slice = 0; slice < rows + cols - 1; ++slice)
             {
-                Console.Write(matrix[bestIndexRow, bestIndexCol] + " ");
+                int z1 = slice < cols ? 0 : slice - cols + 1;
+                int z2 = slice < rows ? 0 : slice - rows + 1;
+
+                for (int j = slice - z2; j >= z1; --j)
+                    diag.Add(matrix[rows - j - 1, slice - j]);
+
+                currentLength = checkDuplicates(diag);
+                if (currentLength > bestLength)
+                    bestLength = currentLength;
+
+                diag.Clear();
             }
-            
-            Console.WriteLine();
-            PrintMatrix(matrix);
+
+            Console.WriteLine(bestLength);
         }
-
-        /// <summary>
-        /// Print method with correct visualisation
-        /// </summary>
-        /// <param name="matrix"></param>
-        static void PrintMatrix(string[,] matrix)
+        
+        //helper function with Linq
+        public static int checkDuplicates(List<string> collection)
         {
-            int cellSize = matrix[0, 0].Length;
-            foreach (string cell in matrix) cellSize = Math.Max(cellSize, cell.Length);
+            var duplicates = collection
+                    .GroupBy(x => x)
+                    .Where(g => g.Count() > 1)
+                    .Select(y => new { Element = y.Key, Counter = y.Count() })
+                    .ToList();
 
-            for (int i = 0; i < matrix.GetLength(0); i++)
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                    Console.Write(matrix[i, j].PadRight(cellSize, ' ') +
-                                 (j != matrix.GetLength(1) - 1 ? " " : "\n"));
+            int result = int.MinValue;
+            foreach (var item in duplicates)
+                if (item.Counter > result)
+                    result = item.Counter;
+
+            return result;
         }
     }
 }

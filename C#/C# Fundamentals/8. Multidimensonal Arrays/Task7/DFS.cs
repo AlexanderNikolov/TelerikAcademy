@@ -15,28 +15,26 @@ namespace TA2013_MultidimensionalArrays_homework
         static void Main(string[] args)
         {
             //input from bgcoder
-            var sizes = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
-            var rows = sizes[0];
-            var cols = sizes[1];
+            string[] sizes = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int rows = sizes[0];
+            int cols = sizes[1];
 
             var matrix = new int[rows, cols];
-
             for (int i = 0; i < rows; ++i)
             {
-                var rowInput = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+                string[] rowInput = Console.ReadLine().Split(' ').ToArray();
 
                 for (int j = 0; j < cols; ++j)
-                {
-                    matrix[i, j] = rowInput[j];
-                }
+                    matrix[i, j] = int.Parse(rowInput[j]);
+          
             }//end of input
 
             var visited = new bool[rows, cols];
             int bestLength = 0; 
 
-            for (int i = 0; i < rows; i++)
+            for (int i = 0; i < rows; ++i)
             {
-                for (int j = 0; j < cols; j++)
+                for (int j = 0; j < cols; ++j)
                 {
                     int currentLength = 0;
                     int currentNumber = matrix[i,j];
@@ -49,9 +47,11 @@ namespace TA2013_MultidimensionalArrays_homework
             }
 
             Console.WriteLine(bestLength);
-
         }
-
+        
+        /// <summary>
+        /// Helper method. Traverse matrix for equal elements using DFS recursive.
+        /// </summary>
         private static void DFS(int[,] matrix, ref bool[,] visited, int row, int col, int currentNumber, ref int currentLength)
         {
             if (row < 0 || row >= matrix.GetLength(0) ||

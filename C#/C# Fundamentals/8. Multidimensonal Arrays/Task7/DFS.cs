@@ -10,72 +10,64 @@
 
 namespace TA2013_MultidimensionalArrays_homework
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-
-    class DFS
+    class Program
     {
-        static int currentCount = 0;
-        static int[,] vectors = new int[,] { { 1, 0 }, { 0, 1 }, { -1, 0 }, { 0, -1 } };
-
-        static void Main()
+        static void Main(string[] args)
         {
-            int[,] matrix = { { 1, 8, 2, 2, 2, 8 } , 
-                              { 8, 8, 8, 2, 4, 4 } , 
-                              { 4, 8, 1, 2, 8, 8 } , 
-                              { 4, 8, 1, 8, 8, 1 } , 
-                              { 4, 8, 8, 8, 1, 1 } };
+            //input from bgcoder
+            var sizes = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            var rows = sizes[0];
+            var cols = sizes[1];
 
-            int maxCount = 0;
+            var matrix = new int[rows, cols];
 
-            for (int i = 0; i < matrix.GetLength(0); i++)
+            for (int i = 0; i < rows; ++i)
             {
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                {
-                    if (matrix[i, j] != 0) // If not visited
-                    {
-                        currentCount = 0;
-                        DFS(matrix, i, j);
+                var rowInput = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-                        maxCount = Math.Max(currentCount, maxCount);
-                    }
+                for (int j = 0; j < cols; ++j)
+                {
+                    matrix[i, j] = rowInput[j];
+                }
+            }//end of input
+
+            var visited = new bool[rows, cols];
+            int bestLength = 0; 
+
+            for (int i = 0; i < rows; i++)
+            {
+                for (int j = 0; j < cols; j++)
+                {
+                    int currentLength = 0;
+                    int currentNumber = matrix[i,j];
+
+                    DFS(matrix, ref visited, i, j, currentNumber, ref currentLength);
+
+                    if (currentLength > bestLength)
+                        bestLength = currentLength;
                 }
             }
 
-            Console.WriteLine(maxCount);
+            Console.WriteLine(bestLength);
+
         }
 
-        /// <summary>
-        /// Depth-First Search (recursion)
-        /// </summary>
-        /// <param name="matrix"></param>
-        /// <param name="row"></param>
-        /// <param name="col"></param>
-        static void DFS(int[,] matrix, int row, int col)
+        private static void DFS(int[,] matrix, ref bool[,] visited, int row, int col, int currentNumber, ref int currentLength)
         {
-            int value = matrix[row, col];
-            matrix[row, col] = 0; //mark visited
+            if (row < 0 || row >= matrix.GetLength(0) ||
+                col < 0 || col >= matrix.GetLength(1) || visited[row, col] == true)
+                return;
 
-            currentCount++;
-
-            //check neighbours
-            for (int node = 0; node < vectors.GetLength(0); node++)
+            if (matrix[row,col] == currentNumber)
             {
-                int rowPlus = row + vectors[node, 0];
-                int colPlus = col + vectors[node, 1];
+                currentLength++;
+                visited[row, col] = true;
 
-                if (InsideMatrix(matrix, rowPlus, colPlus) && matrix[rowPlus, colPlus] == value)
-                {
-                    DFS(matrix, rowPlus, colPlus);
-                }
+                DFS(matrix, ref visited, row - 1, col, currentNumber, ref currentLength);
+                DFS(matrix, ref visited, row + 1, col, currentNumber, ref currentLength);
+                DFS(matrix, ref visited, row, col -1, currentNumber, ref currentLength);
+                DFS(matrix, ref visited, row, col + 1, currentNumber, ref currentLength);
             }
-        }
-
-        static bool InsideMatrix(int[,] matrix, int x, int y)
-        {
-            return x >= 0 && x < matrix.GetLength(0) && y >= 0 && y < matrix.GetLength(1);
         }
     }
 }

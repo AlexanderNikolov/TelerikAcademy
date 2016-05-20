@@ -15,10 +15,12 @@ namespace TA2014_Strings_homework
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter expression for validation ex: ((a+b)/5-d)");
+            //bgcoder input
+            //Console.WriteLine("Enter expression for validation ex: ((a+b)/5-d)");
             var input = Console.ReadLine();
+            //end of input
 
-            Console.WriteLine("Are brackets put correctly? {0}", BracketsValidation(input));
+            Console.WriteLine(BracketsValidation(input));
         }
 
         private static bool BracketsValidation(string input)

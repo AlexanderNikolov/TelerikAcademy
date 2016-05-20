@@ -14,11 +14,14 @@ namespace _05_TagsTEXT
     {
         static void Main(string[] args)
         {
-            string text = @"We are living in a <upcase>yellow submarine</upcase>. We don't have <upcase>anything</upcase> else.";
+            //input from bgcoder
+            //string text = @"We are living in a <upcase>yellow submarine</upcase>. We don't have <upcase>anything</upcase> else.";
+            string input = Console.ReadLine();
+            //end of input
+            
+            input = (Regex.Replace(input, "<upcase>(.*?)</upcase>", word => word.Groups[1].Value.ToUpper()));
 
-            text = (Regex.Replace(text, "<upcase>(.*?)</upcase>", word => word.Groups[1].Value.ToUpper()));
-
-            Console.WriteLine(text);
+            Console.WriteLine(input);
         }
     }
 }

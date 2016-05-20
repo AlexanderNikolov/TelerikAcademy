@@ -16,13 +16,20 @@ namespace _04_SubstringMatchingCount
         {
             var example = "We are living in an yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.";
             var target = "in";
-
+            
+            //with IndexOf and array
             Console.WriteLine(SubstringFrequencyCounter(example, target));
-
-            //regex
+            
+            //with IndexOf and List
+            //Console.WriteLine(SubstringRepeatsCounterIgnoreCase(input, pattern));
+            
+            //with regex
             //Console.WriteLine(Regex.Matches(text, target, RegexOptions.IgnoreCase).Count);
         }
-
+        
+        /// <summary>
+        /// Helper method
+        /// </summary>
         private static int SubstringFrequencyCounter(string text, string substring)
         {
             string[] words = text.Split(new char[] {' ', ',', '.', ';', ':', '!', '?', '*'}, StringSplitOptions.RemoveEmptyEntries);
@@ -39,5 +46,25 @@ namespace _04_SubstringMatchingCount
 
             return count;
         }
+        
+        /// <summary>
+        /// Helper method
+        /// </summary>
+        static int SubstringRepeatsCounterIgnoreCase(string input, string pattern)
+        {
+            input = input.ToLower(); //remove for case sensitive
+            pattern = pattern.ToLower(); // remove for case sensitive
+            List<int> repeats = new List<int>();
+            int pos = 0;
+
+            while ((pos < input.Length) && (pos = input.IndexOf(pattern, pos)) != -1)
+            {
+                repeats.Add(pos);
+                pos += pattern.Length; //jump to next index of repeating if exist
+            }
+
+            return repeats.Count();
+        }
+        
     }
 }
